@@ -10,28 +10,28 @@
 <PostMeta {title} {description} />
 
 <section>
-	<Block linkText="Read about the risks" href="/risks">
-		<span slot="title">We risk <Mark>losing control</Mark></span>
-		AI can have amazing benefits, but it could also erode our democracy, destabilize our economy and
-		could be used to create powerful cyber weapons.
+	<Block linkText="Läs om riskerna" href="/risks">
+		<span slot="title">Vi riskerar att <Mark>förlora kontrollen</Mark></span>
+		AI kan ha fantastiska fördelar, men det kan också urholka vår demokrati, destabilisera vår ekonomi och
+		kunna användas för att skapa kraftfulla cyber vapen.
 	</Block>
-	<Block linkText="Why and how AI can kill us" href="/xrisk">
-		<span slot="title">We risk <Mark>human extinction</Mark></span>
-		Many AI labs and experts agree: AI could end humanity.
+	<Block linkText="Varför och hur AI kan utplåna oss" href="/xrisk">
+		<span slot="title">Vi riskerar <Mark>mänsklig utrotning</Mark></span>
+		Många AI-labb och experter håller med: AI kan avsluta mänskligheten.
 	</Block>
-	<Block linkText="Read the proposal" href="/proposal">
-		<span slot="title">We need a <Mark>pause</Mark></span>
-		Stop the development of AI systems more powerful than GPT-4 until we know how to make them safe.
-		This needs to happen on an international level, and it needs to happen soon.
+	<Block linkText="Läs förslaget" href="/proposal">
+		<span slot="title">Vi behöver en <Mark>paus</Mark></span>
+		Stoppa utvecklingen av AI-system kraftfullare än GPT-4 tills vi vet hur man gör dem säkra.
+		Detta behöver ske på en internationell nivå, och det behöver hända snart.
 	</Block>
-	<Block linkText="How long do we have?" href="/urgency">
-		<span slot="title">WE NEED TO ACT <Mark>RIGHT NOW</Mark></span>
-		In 2020, experts thought we had more than 35 years until AGI. Recent breakthroughs show we might
-		be almost there. Superintelligence could be one innovation away, so we should tread carefully.</Block
+	<Block linkText="Hur lång tid har vi?" href="/urgency">
+		<span slot="title">VI BEHÖVER HANDLA <Mark>GENAST</Mark></span>
+		År 2020 trodde experter att vi hade mer än 35 år till AGI. Senaste genombrotten visar att vi kan
+		vara nästan där. Superintelligens kan vara en innovation bort, så vi bör vara försiktiga.</Block
 	>
-	<Block linkText="Take action" href="/action">
-		<span slot="title"><Mark>YOU</Mark> CAN HELP</span>
-		Too few people are well-informed about the potential risks of AI. Inform others, and help stop this
-		race to the bottom.</Block
+	<Block linkText="Gör en insats" href="/action">
+		<span slot="title"><Mark>DU</Mark> KAN HJÄLPA</span>
+		För få människor är väl informerade om de potentiella riskerna med AI. Informera andra och hjälp till att stoppa denna
+		kapplöpning till botten.</Block
 	>
 </section>
