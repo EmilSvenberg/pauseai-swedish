@@ -1,4 +1,4 @@
-<-- <script lang="ts">
+<!-- <script lang="ts">
 	import PostMeta from '$lib/components/PostMeta.svelte'
 	import Link from '$lib/components/Link.svelte'
 	import { meta } from './meta'
@@ -51,4 +51,4 @@ If you want to create a new team, reach out to the Oversight team leader (see be
 		gap: 1rem;
 	}
 </style>
---/>
+-->
