@@ -1,6 +1,4 @@
 import type { Team } from '$lib/types.js'
-import { json } from '@sveltejs/kit'
-import { options } from '$lib/api.js'
 
 function recordToTeam(record: any): Team {
 	return {
