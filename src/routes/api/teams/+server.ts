@@ -17,7 +17,7 @@ export async function GET({ fetch }) {
 
 	const response = await fetch(url, options)
 	if (!response.ok) {
-		throw new Error('Failed to fetch data from Airtable')
+		//throw new Error('Failed to fetch data from Airtable')
 	}
 	const data = await response.json()
 	const out: Team[] = data.records.map(recordToTeam)
