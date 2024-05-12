@@ -1,4 +1,4 @@
-import type { Team } from '$lib/types'
+/* import type { Team } from '$lib/types'
 
 export const prerender = true
 
@@ -9,3 +9,4 @@ export const load = async ({ fetch }) => {
 		props: posts
 	}
 }
+*/
