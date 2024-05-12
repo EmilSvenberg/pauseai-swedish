@@ -15,7 +15,7 @@ function recordToPerson(record: any): Person {
 }
 
 export async function GET({ fetch }) {
-	const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblZhQc49PkCz3yHd`
+	const url = `https://www.google.com`
 
 	const response = await fetch(url, options)
 	if (!response.ok) {
