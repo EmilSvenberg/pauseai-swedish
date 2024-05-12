@@ -12,15 +12,3 @@ function recordToTeam(record: any): Team {
 	}
 }
 
-export async function GET({ fetch }) {
-	const url = `https://www.google.com`
-
-	const response = await fetch(url, options)
-	if (!response.ok) {
-		console.log("THE RESPONSE: " ,response);
-		throw new Error('Failed to fetch data from Airtable')
-	}
-	const data = await response.json()
-	const out: Team[] = data.records.map(recordToTeam)
-	return json(out)
-}
