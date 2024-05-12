@@ -13,7 +13,7 @@ function recordToTeam(record: any): Team {
 }
 
 export async function GET({ fetch }) {
-	const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblYLOPzJ32QOdBLg`
+	const url = `https://www.google.com`
 
 	const response = await fetch(url, options)
 	if (!response.ok) {
