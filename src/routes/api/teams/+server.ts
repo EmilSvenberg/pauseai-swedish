@@ -17,7 +17,6 @@ export async function GET({ fetch }) {
 
 	const response = await fetch(url, options)
 	if (!response.ok) {
-		console.log("HIIIIII", response)
 		throw new Error('Failed to fetch data from Airtable')
 	}
 	const data = await response.json()
