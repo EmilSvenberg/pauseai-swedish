@@ -83,9 +83,9 @@
 <h1>{title}</h1>
 <p>{description}</p>
 <p>
-	Do you want to add your location or a community? <ExternalLink
-		href="https://discord.gg/HWcPt5ccJN">Create a post</ExternalLink
-	> on our Discord!
+	Vill du lägga till din plats eller en community? <ExternalLink
+		href="https://discord.gg/HWcPt5ccJN">Skapa ett inlägg</ExternalLink
+	> på vår Discord!
 </p>
 <div>
 	<div class="map-wrap">
