@@ -23,18 +23,18 @@
 
 	<div class="nav-right">
 		<div class="nav-links">
-			<NavLink href="/risks">Risks</NavLink>
-			<NavLink href="/proposal">Proposal</NavLink>
-			<NavLink href="/protests">Protests</NavLink>
+			<NavLink href="/risks">Risker</NavLink>
+			<NavLink href="/proposal">Förslag</NavLink>
+			<NavLink href="/protests">Protester</NavLink>
 			<NavLink href="/faq">FAQ</NavLink>
-			<NavLink href="/action">Act</NavLink>
-			<NavLink href="/donate">Donate</NavLink>
+			<NavLink href="/action">Agera</NavLink>
+			<NavLink href="/donate">Donera</NavLink>
 			{#if enableBot}
 				<NavLink href="/chat">{botName}</NavLink>
 			{/if}
-			<!-- <NavLink href="/about">About</NavLink> -->
-			<NavLink c2a href="/join">Join</NavLink>
-			<NavLink href="/search" ariaLabel="Search"><SearchIcon size="0.8em" /></NavLink>
+			<!-- <NavLink href="/about">Om</NavLink> -->
+			<NavLink c2a href="/join">Gå med</NavLink>
+			<NavLink href="/search" ariaLabel="Sök"><SearchIcon size="0.8em" /></NavLink>
 		</div>
 	</div>
 </nav>
