@@ -178,7 +178,7 @@ För att erkänna att _vi faktiskt är i fara_ är en mycket, mycket skrämmande
 ## Okej, jag vill hjälpa! Vad kan jag göra?
 
 Det finns många [saker du kan göra](/action).
-På egen hand kan du skriva ett [brev](/writing-a-letter), posta [flyers](/flyering), informera [andra](/action#you-can-do-this), delta i en [protest](/protests), eller [donera](/donate) pengar!
+På egen hand kan du skriva ett [brev](/writing-a-letter), posta [flyers](/flyering), informera [andra](/action#du-kan-göra-detta), delta i en [protest](/protests), eller [donera](/donate) pengar!
 Men ännu viktigare: du kan [gå med i PauseAI](/join) och samordna med andra som tar åtgärder.
 Om du vill bidra mer kan du bli volontär och gå med i ett av våra [team](/teams).
 
