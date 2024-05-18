@@ -8,7 +8,7 @@
 
 <footer>
 	<div class="joinbar">
-		<a class="c2a" href="/join">Join PauseAI &gt;</a>
+		<a class="c2a" href="/join">Gå med i PauseAI &gt;</a>
 		<div class="socials">
 			<Socials />
 		</div>
@@ -18,52 +18,52 @@
 		<div class="column">
 			<h2>Info</h2>
 			<a href="/faq">FAQ</a>
-			<a href="/proposal">Proposal</a>
-			<a href="/learn">Learn</a>
+			<a href="/proposal">Förslag</a>
+			<a href="/learn">Lär dig</a>
 			<a href="/press">Press / Media</a>
-			<a href="/people">People</a>
-			<a href="/teams">Teams</a>
-			<a href="/legal">Legal Info <br /> Stichting PauseAI <br /> (kvk 92951031)</a>
+			<a href="/people">Personer</a>
+			<a href="/teams">Team</a>
+			<a href="/legal">Juridisk information <br /> Stichting PauseAI <br /> (kvk 92951031)</a>
 		</div>
 		<div class="column">
-			<h2>Risks</h2>
-			<a href="/risks">Risks overview</a>
-			<a href="/outcomes">AI Outcomes</a>
-			<a href="/xrisk">Existential risk</a>
-			<a href="/psychology-of-x-risk">Psychology of x-risk</a>
-			<a href="/ai-takeover">AI takeover</a>
-			<a href="/cybersecurity-risks">Cybersecurity</a>
-			<a href="/dangerous-capabilities">Dangerous capabilities</a>
+			<h2>Risker</h2>
+			<a href="/risks">Risköversikt</a>
+			<a href="/outcomes">AI-utfall</a>
+			<a href="/xrisk">Existentiell risk</a>
+			<a href="/psychology-of-x-risk">Psykologi av x-risk</a>
+			<a href="/ai-takeover">AI-övertagande</a>
+			<a href="/cybersecurity-risks">Cybersäkerhet</a>
+			<a href="/dangerous-capabilities">Farliga förmågor</a>
 			<a href="/sota">State of the art</a>
-			<a href="/urgency">Urgency</a>
+			<a href="/urgency">Brådska</a>
 		</div>
 		<div class="column">
-			<h2>Take Action</h2>
-			<a href="/join">Join PauseAI</a>
-			<a href="/action">How you can help</a>
-			<a href="/communities">Local communities</a>
-			<a href="donate">Donate</a>
+			<h2>Vidta åtgärder</h2>
+			<a href="/join">Gå med i PauseAI</a>
+			<a href="/action">Hur du kan hjälpa</a>
+			<a href="/communities">Lokala gemenskaper</a>
+			<a href="/donate">Donera</a>
 			<ExternalLink href="https://pauseai-shop.fourthwall.com" target="_blank"
 				>Merchandise</ExternalLink
 			>
-			<a href="/protests">Protests</a>
-			<a href="/organizing-a-protest">Organize a protest</a>
-			<a href="/email-builder">Email builder</a>
-			<a href="/lobby-tips">Lobby tips</a>
+			<a href="/protests">Protester</a>
+			<a href="/organizing-a-protest">Organisera en protest</a>
+			<a href="/email-builder">E-postbyggare</a>
+			<a href="/lobby-tips">Lobbytips</a>
 		</div>
 		<div class="column">
 			<h2>Other</h2>
 			<Toggle />
 			<WithdrawWidgetConsent />
 			<Edit />
-			<a href="/posts">All pages</a>
+			<a href="/posts">Alla Sidor</a>
 			<a href="/rss.xml" target="_blank">RSS</a>
 			<ExternalLink href="https://creativecommons.org/licenses/by/4.0/" target="_blank"
 				>License: CC-BY 4.0</ExternalLink
 			>
 			<ExternalLink
 				href="https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form"
-				target="_blank">Submit feedback</ExternalLink
+				target="_blank">Skicka Feedback</ExternalLink
 			>
 		</div>
 	</div>
