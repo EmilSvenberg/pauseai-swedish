@@ -143,57 +143,29 @@ Istället för att behöva anlita ett team av skickliga säkerhetsexperter/hacka
 Läs mer om AI och cybersäkerhetsrisker
 
 ### Existentiell risk
+Existentiell risk
 Många AI-forskare varnar för att AI kan leda till mänsklighetens slut.
 
-Mycket intelligenta saker är mycket kraftfulla.
-Om vi bygger en maskin som är mycket mer intelligent än människor måste vi vara säkra på att den vill samma sak som vi vill.
-Detta visar sig dock vara mycket svårt.
-Detta kallas anpassningsproblemet.
-Om vi misslyckas med att lösa det i tid kan vi hamna med superintelligenta maskiner som inte bryr sig om vårt välbefinnande.
-Vi skulle introducera en ny art
-### Existential Risk
+Mycket intelligenta saker är mycket kraftfulla. Om vi bygger en maskin som är mycket mer intelligent än människor, måste vi vara säkra på att den vill samma sak som vi vill. Detta visar sig dock vara mycket svårt. Detta kallas anpassningsproblemet. Om vi misslyckas med att lösa det i tid, kan vi sluta med superintelligenta maskiner som inte bryr sig om vårt välbefinnande. Vi skulle introducera en ny art på planeten som kan överlista oss och överträffa oss.
 
-Many AI researchers are warning that AI could lead to the end of humanity.
+[Läs mer om x-risk](/xrisk)
 
-Very intelligent things are very powerful.
-If we build a machine that is far more intelligent than humans, we need to be sure that it wants the same thing as we want.
-However, this turns out to be very difficult.
-This is called the _alignment problem_.
-If we fail to solve it in time, we may end up with superintelligent machines that do not care about our well-being.
-We'd be introducing a new species to the planet that could outsmart us and outcompete us.
+### Mänsklig maktlöshet
+Även om vi lyckas skapa endast AI-system som vi kan kontrollera individuellt, kan vi förlora vår makt att fatta viktiga beslut stegvis varje gång ett system implementeras inom institutioner eller blir populärt i vardagen. Dessa system skulle ha mer input från andra system än från människor, och om vi inte kan samordna oss tillräckligt snabbt, eller saknar nödvändig kunskap om hur dessa system fungerar, kan vi sluta utan kontroll över vår framtid.
 
-[Read more about x-risk](/xrisk)
+Det skulle vara en civilisation där varje system optimerar för olika mål, det finns ingen klar riktning för vart allt är på väg, och det finns inget sätt att ändra det. Den tekniska kunskapen som krävs för att modifiera dessa system kan saknas från början eller gå förlorad över tid, när vi blir mer och mer beroende av teknik, och tekniken blir mer komplex.
 
-### Human disempowerment
+Systemen kan uppnå sina mål, men dessa mål kanske inte helt inkapslar de värderingar de förväntades ha. Detta problem händer redan idag till viss del, men AI kan avsevärt förstärka det.
 
-Even if we manage to create only AI systems that we can control individually, we could lose our power to make important decisions incrementally each time one becomes implemented inside institutions or popularized in everyday life.
-Those systems would end up having more input from other systems than from humans, and, if we cannot coordinate quickly enough, or we lack crucial knowledge about the functioning of these systems, we could end up without control over our future.
+### Digital medvetenhet
+När AI fortsätter att utvecklas kan framtida system bli otroligt sofistikerade och replikera neurala strukturer och funktioner som liknar den mänskliga hjärnan. Denna ökade komplexitet kan leda till framväxande egenskaper som subjektivitet och/eller medvetande, så att dessa AI skulle förtjäna moraliska överväganden och behandlas väl. De skulle vara som "digitala människor". Problemet är att, med tanke på vår nuvarande brist på kunskap om medvetande och neurala nätverks natur, kommer vi inte att kunna avgöra om vissa AI skulle ha någon typ av upplevelse och vad kvaliteten på dessa upplevelser skulle bero på. Om AI fortsätter att produceras endast med deras kapacitet i åtanke, genom en process vi inte helt förstår, kommer människor fortsätta att använda dem som verktyg utan att förstå vad deras önskningar kan vara, och de kan faktiskt förslava digitala människor.
 
-It would be a civilization in which each system is optimizing for different objectives, there is not a clear direction for where everything is heading, and there is no way of changing it.
-The technical knowledge required to modify these systems could be lacking in the first place or lost over time, as we become more and more dependent on technology, and the technology becomes more complex.
+Risker med inlåst lidande
+Det är möjligt att när automatisering på högre nivåer börjar ske, oavsett om det finns en eller flera kraftfulla AI, skulle värderingarna hos dessa system inte kunna ändras, och automatiseringen skulle fortsätta till universums slut, genom alla nåbara galaxer. De värsta scenarierna som dessa AI kan skapa skulle inte vara mänsklig utrotning, utan oundvikliga dystopier som skulle sträcka sig genom hela den tidsrymden.
 
-The systems may achieve their goals, but those goals might not entirely encapsulate the values they were expected to. This problem is, to a certain extent, already happening today, but AIs could significantly amplify it.
+Möjliga inlåsta dystopier med mycket lidande kallas S-risker och inkluderar världar där kännande varelser är förslavade och tvingas göra hemska saker. Dessa varelser kan vara människor, djur, digitala människor eller någon annan utomjordisk art som systemet kan hitta i kosmos. Med tanke på hur svårt vi tror att det är att helt lösa anpassningsproblemet, hur dåligt vi människor ibland behandlar varandra, hur illa vi behandlar de flesta djur, och hur vi behandlar nuvarande AI, kanske en framtid som denna inte är så osannolik som vi skulle vilja.
 
-### Digital sentience
+# Vad kan vi göra?
+För alla problem som diskuterats ovan ökar risken när AI-förmågor förbättras. Detta innebär att det säkraste att göra nu är att sakta ner. Vi måste pausa utvecklingen av mer kraftfulla AI-system tills vi har listat ut hur vi ska hantera riskerna.
 
-As AI continues to advance, future systems may become incredibly sophisticated, replicating neural structures and functions that are more akin to the human brain.
-This increased complexity might lead to emergent properties like subjectivity and/or consciousness, so those AIs would be deserving of moral considerations and be treated well.
-Would be like "digital people".
-The thing is that, given our present lack of knowledge about consciousness and the nature of neural networks, we won't have a way to determine whether some AIs would have any type of experience and what the quality of those experiences would depend on.
-If the AIs continue to be produced with only their capabilities in mind, through a process we don't fully understand, people will keep on using them as tools ignoring what their desires could be, and that they could be actually enslaving digital people.
-
-### Suffering lock-in risks
-
-It is possible that once automation at higher degrees starts happening, regardless if there is just one or multiple powerful AIs, the values of those systems would not be able to be changed, and the automation would continue until the end of the universe, throughout the reachable galaxies.
-Arguably, the worst scenarios that those AIs could create would not be human extinction, but inescapable dystopias that would extend through all that spacetime.
-
-Possible locked-in dystopias with lots of suffering are called _S-risks_ and include worlds in which sentient beings are enslaved and forced to do horrible things.
-Those beings could be humans, animals, digital people or any other alien species that the system could find in the cosmos. Given how difficult we think solving alignment completely is, how bad we humans treat each other sometimes, how bad we treat most animals, and how we treat present AIs, a future like that is maybe not as unlikely as we'd like.
-
-## What can we do?
-
-For **all** the problems discussed above, the risk increases as AI capabilities improve.
-This means that the safest thing to do now is to **slow down**.
-We need to pause the development of more powerful AI systems until we have figured out how to deal with the risks.
-
-See [our proposal](/proposal) for more details.
+Se vårt [förslag](/proposal) för mer detaljer.
