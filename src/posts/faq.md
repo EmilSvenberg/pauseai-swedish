@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Frequently asked questions about PauseAI and the risks of superintelligent AI.
+description: Vanliga frågor om PauseAI och riskerna med superintelligent AI.
 ---
 
 <script>
@@ -14,101 +14,104 @@ description: Frequently asked questions about PauseAI and the risks of superinte
 
 <SimpleToc />
 
-## Who are you?
+## Vilka är ni?
 
-We are a community of volunteers and [local communities](/communities) coordinated by a [non-profit organization](/organization) that aims to mitigate the [risks of AI](/risks) (including the [risk of human extinction](/xrisk)).
-We aim to convince our governments to step in and [pause the development of superhuman AI](/proposal).
-We do this by informing the public, talking to decision-makers, and organizing [events](/events).
+Vi är en gemenskap av [volontärer](/people) och [lokala gemenskaper](/communities) koordinerade av en [ideell organisation](/legal) som syftar till att mildra [riskerna med AI](/risks) (inklusive [risken för mänsklig utrotning](/xrisk)).
+Vi strävar efter att övertyga våra regeringar att ingripa och [pausa utvecklingen av övermänsklig AI](/proposal).
+Vi gör detta genom att informera allmänheten, prata med beslutsfattare och organisera protester.
 
-## Do you have social media?
+Du kan hitta oss på [Discord](https://discord.gg/2XXWXvErfA) (det är här de flesta av våra samordningar sker!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI) och [Instagram](https://www.instagram.com/pause_ai).
+Du kan maila/kontakta oss på [joep@pauseai.info](mailto:joep@pauseai.info).
 
-You can find us on [Discord](https://discord.gg/NuqkHutXW3) (this is where most of the coordination happens!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai), [Telegram](https://t.me/+UeTsIsNkmt82ZmQ8), [Whatsapp](https://chat.whatsapp.com/JgcAbjqRr8X3tvrXdeQvfj) and [Reddit](https://www.reddit.com/r/PauseAI/).
-You can mail/contact us at [joep@pauseai.info](mailto:joep@pauseai.info).
+## Är ni bara rädda för förändringar och ny teknik?
 
-## Aren't you just scared of changes and new technology?
+Du kanske blir förvånad över att de flesta i PauseAI betraktar sig själva som teknologiska optimister.
+Många av dem är involverade i AI-utveckling, är gadgetälskare och har mestadels varit mycket entusiastiska över framtiden.
+Särskilt många av dem har varit entusiastiska över AI:s potential att hjälpa mänskligheten.
+Det är därför som den sorgliga insikten för många av dem att AI kan utgöra en existentiell risk var mycket [svår att internalisera](/psychology-of-x-risk).
 
-You might be surprised that most people in PauseAI consider themselves techno-optimists.
-Many of them are involved in AI development, are gadget lovers, and have mostly been very excited about the future.
-Particularly many of them have been excited about the potential of AI to help humanity.
-That's why for many of them the sad realization that AI might be an existential risk was a very [difficult one to internalize](/psychology-of-x-risk).
+## Vill ni förbjuda all AI?
 
-## Do you want to ban all AI?
+Nej, bara utvecklingen av de största generella AI-systemen, ofta kallade "Frontier-modeller".
+Nästan all befintlig AI skulle vara laglig enligt [vårt förslag](/proposal), och de flesta framtida AI-modeller kommer också att vara lagliga.
+Vi kräver ett förbud mot AI-system som är kraftfullare än GPT-4, tills vi vet hur man bygger bevisligen säker AI, och vi har dem under demokratisk kontroll.
 
-No, only the development of the largest general-purpose AI systems, often called "Frontier models".
-Almost all currently existing AI would be legal under [our proposal](/proposal), and most future AI models will remain legal, too.
-We're calling for a ban on more powerful general AI systems, until we know how to build provably safe AI, and we have them under democratic control.
+## Tror ni att GPT-4 kommer att döda oss?
 
-## Do you believe GPT-4 is going to kill us?
+Nej, vi tror inte att [nuvarande AI-modeller](/sota) är en existentiell risk.
+Det verkar troligt att de flesta nästa AI-modeller inte heller kommer att vara det.
+Men om vi fortsätter att bygga allt mer kraftfulla AI-system, kommer vi till slut att nå en punkt där en av dem blir en [existentiell risk](/xrisk).
 
-No, we don't think [current AI models](/sota) are an existential threat.
-It seems likely that most next AI models won't be as well.
-But if we keep building more and more powerful AI systems, eventually we will reach a point where one will become an [existential threat](/xrisk).
+## Kan en paus slå tillbaka och göra saker värre?
 
-## Can a Pause backfire and make things worse?
+Vi har adresserat dessa farhågor i [denna artikel](/mitigating-pause-failures).
 
-We've addressed these concerns in [this article](/mitigating-pause-failures).
+## Är en paus ens möjlig?
 
-## Is a Pause even possible?
+AGI är inte oundvikligt.
+Det kräver horder av ingenjörer med miljonlöner.
+Det kräver en fullt fungerande och obegränsad försörjningskedja av den mest komplexa hårdvaran.
+Det kräver att vi alla tillåter dessa företag att spela med vår framtid.
 
-AGI is not inevitable.
-It requires hordes of engineers with million-dollar paychecks.
-It requires a fully functional and unrestricted supply chain of the most complex hardware.
-It requires all of us to allow these companies to gamble with our future.
+[Läs mer om möjligheten av en paus](/feasibility).
 
-[Read more about the feasibility of a Pause](/feasibility).
+## Vem betalar er?
 
-## Who is paying you?
+Praktiskt taget alla våra åtgärder hittills har gjorts av volontärer.
+Men sedan februari 2024 är PauseAI en [registrerad ideell stiftelse](/legal), och vi har fått flera donationer från enskilda individer.
+Vi har också fått 20k finansiering från LightSpeed-nätverket.
 
-See our [Funding page](/funding)
+Du kan också [donera](/donate) till PauseAI om du stöder vår sak!
+Vi använder det mesta av pengarna för att möjliggöra för lokala gemenskaper att organisera evenemang.
 
-## What are your plans?
+## Vad är era planer?
 
-Focus on [growing the movement](/growth-strategy), organizing protests, lobbying politicians, and informing the public.
+Fokusera på [att växa rörelsen](/growth-strategy), organisera protester, lobbyverksamhet hos politiker och informera allmänheten.
 
-Check out our [roadmap](/roadmap) for a detailed overview of our plans and what we could do with more funding.
+Kolla in vår [roadmap](/roadmap) för en detaljerad översikt över våra planer och vad vi kan göra med mer finansiering.
 
-## How do you think you can convince governments to pause AI?
+## Hur tror ni att ni kan övertyga regeringar att pausa AI?
 
-Check out our [theory of change](/theory-of-change) for a detailed overview of our strategy.
+Kolla in vår [förändringsteori](/theory-of-change) för en detaljerad översikt av vår strategi.
 
-## Why do you protest?
+## Varför protesterar ni?
 
-- Protesting shows the world that we care about this issue. By protesting, we show that we are willing to spend our time and energy to get people to listen.
-- Protests can and often will [positively influence](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf) public opinion, voting behavior, corporate behavior and policy.
-- By far [most people are supportive](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america) of peaceful/non-violent protests
-- There is [no evidence for a "backfire" effect](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [unless the protest is violent](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Our protests are peaceful and non-violent.
-- It's a social bonding experience. You meet other people who share your concerns and willingness to take action.
-- Check out [this amazing article](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) for more insights on why protesting works
+- Att protestera visar världen att vi bryr oss om denna fråga. Genom att protestera visar vi att vi är villiga att lägga vår tid och energi för att få människor att lyssna.
+- Protester kan och kommer ofta att [positivt påverka](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf) allmän opinion, röstbeteende, företagsbeteende och policy.
+- Överlägset [de flesta människor stödjer](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america) fredliga/ickevåldsamma protester.
+- Det finns [ingen "bakslag" effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [såvida inte protesten är våldsam](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Våra protester är fredliga och ickevåldsamma.
+- Det är en social bindningsupplevelse. Du träffar andra människor som delar dina bekymmer och vilja att agera.
+- Kolla in [denna fantastiska artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) för mer insikter om varför protester fungerar.
 
-If you want to [organize a protest](/organizing-a-protest), we can help you with advice and resources.
+Om du vill [organisera en protest](/organizing-a-protest), kan vi hjälpa dig med råd och resurser.
 
-## How likely is it that superintelligent AI will cause very bad outcomes, like human extinction?
+## Hur sannolikt är det att superintelligent AI kommer att orsaka mycket dåliga utfall, som mänsklig utrotning?
 
-We have composed [a list of 'p(doom)' values](/pdoom) (probability of bad outcomes) from various notable experts in the field.
+Vi har sammanställt [en lista med 'p(doom)'-värden](/pdoom) (sannolikhet för dåliga utfall) från olika framstående experter inom området.
 
-AI safety researchers (who are the experts on this topic) are divided on this question, and estimates [range from 2% to 97% with an average of 30%](https://web.archive.org/web/20221013014859/https://www.alignmentforum.org/posts/QvwSr5LsxyDeaPK5s/existential-risk-from-ai-survey-results).
-Note that no (surveyed) AI safety researchers believe that there's a 0% chance.
-However, there might be selection bias here: people who work in the AI safety field are likely to do so because they believe preventing bad AI outcomes is important.
+AI-säkerhetsforskare (som är experter på detta ämne) är delade i denna fråga, och uppskattningar [sträcker sig från 2% till 97% med ett genomsnitt på 30%](https://web.archive.org/web/20221013014859/https://www.alignmentforum.org/posts/QvwSr5LsxyDeaPK5s/existential-risk-from-ai-survey-results).
+Observera att inga (undersökta) AI-säkerhetsforskare tror att det finns en 0% chans.
+Det kan dock finnas ett urvalsbias här: människor som arbetar inom AI-säkerhet gör det troligtvis för att de anser att det är viktigt att förhindra dåliga AI-utfall.
 
-If you ask AI researchers in general (not safety specialists), this number drops to a [mean value of around 14%](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/), with a median of 5%.
-The vast majority, 86% of them, believe that the alignment problem is both a real and an important problem.
-Note that there might be a selection bias here in the opposite direction: people who work in AI are likely to do so because they believe AI will be beneficial.
+Om du frågar AI-forskare i allmänhet (inte säkerhetsspecialister), sjunker denna siffra till ett [medelvärde på runt 14%](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/), med en median på 5%.
+En minoritet, cirka 20% av dem, tror att anpassningsproblemet inte är ett verkligt eller viktigt problem.
+Observera att det kan finnas ett urvalsbias här i motsatt riktning: människor som arbetar inom AI gör det troligtvis för att de tror att AI kommer att vara fördelaktigt.
 
-_Imagine you're invited to take a test flight on a new airplane_.
-The plane engineers think there's a 14% chance of crashing.
-Would you enter that plane? Because right now, we're all boarding the AI plane.
+_Föreställ dig att du blir inbjuden att ta en provflygning på ett nytt flygplan_.
+Flygplansingenjörerna tror att det finns en 14% chans att krascha.
+Skulle du gå ombord på det planet? För just nu, går vi alla ombord på AI-planet.
 
-## How long do we have until superintelligent AI?
+## Hur lång tid har vi tills superintelligent AI?
 
-It might take months, it might take decades, nobody knows for sure.
-However, we do know that the pace of AI progress is often grossly underestimated.
-Just three years ago we thought we'd have SAT-passing AI systems in 2055.
-We got there in April 2023.
-We should act as if we have very little time left because we don't want to be caught off guard.
+Det kan ta månader, det kan ta decennier, ingen vet säkert.
+Men vi vet att takten i AI-framsteg ofta underskattas grovt.
+För bara tre år sedan trodde vi att vi skulle ha SAT-godkända AI-system år 2055.
+Vi nådde dit i april 2023.
+Vi bör agera som om vi har väldigt lite tid kvar eftersom vi inte vill bli tagna på sängen.
 
-[Read more about urgency](/urgency).
+[Läs mer om brådskan](/urgency).
 
-## If we Pause, what about China?
+## Om vi pausar, vad händer med Kina?
 
 For starters, at this point, China has stricter AI regulations than virtually any other country.
 They [didn't even allow chatbots](https://www.reuters.com/technology/chinas-slow-ai-roll-out-points-its-tech-sectors-new-regulatory-reality-2023-07-12/) and [disallowed training on internet data](https://cointelegraph.com/news/china-sets-stricter-rules-training-generative-ai-models) up [until September 2023](https://asia.nikkei.com/Business/Technology/China-approves-AI-chatbot-releases-but-will-it-unleash-innovation).
