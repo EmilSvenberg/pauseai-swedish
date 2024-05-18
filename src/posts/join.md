@@ -1,20 +1,20 @@
 ---
-title: Join PauseAI
-description: Sign up to join the PauseAI movement.
+title: Gå med i PauseAI
+description: Anmäl dig för att gå med i PauseAI-rörelsen.
 ---
 
-The group of people who are aware of AI risks is still small.
-You are now one of them.
-**Your actions matter more than you think.**
+Gruppen av människor som är medvetna om AI-risker är fortfarande liten.
+Nu är du en av dem.
+**Dina handlingar betyder mer än du tror.**
 
-<!-- ## [Sign up here](https://airtable.com/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form) -->
+<!-- ## [Anmäl dig här](https://airtable.com/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form) -->
 
-Here's what happens:
+Så här går det till:
 
-- After filling in the form, one of the Onboarding team members will reach out to you.
-- You should [join the PauseAI](https://discord.gg/2XXWXvErfA) Discord, where most of the collaboration happens.
-- You'll have a 30-minute call to discuss your interests and how you can contribute.
-- We'll look for projects or [teams](/teams) that match your interests.
-- You'll sign up as a volunteer and you'll appear on the [people](/people) page (if you're OK with that!)
+- Efter att ha fyllt i formuläret kommer en av medlemmarna i Onboarding-teamet att kontakta dig.
+- Du bör [gå med i PauseAI](https://discord.gg/2XXWXvErfA) Discord, där det mesta av samarbetet sker.
+- Du kommer att ha ett 30-minuters samtal för att diskutera dina intressen och hur du kan bidra.
+- Vi letar efter projekt eller [team](/teams) som matchar dina intressen.
+- Du anmäler dig som volontär och du kommer att synas på [människor](/people)-sidan (om du är OK med det!)
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appWPTGqZmUcs3NWu/pagoxRuCai4OYJEHt/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
