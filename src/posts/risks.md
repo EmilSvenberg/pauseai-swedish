@@ -96,63 +96,61 @@ Auktoritära och totalitära regeringar kan också använda AI-teknologier för 
 De kan kontrollera kommunikationskanaler eller upprätthålla sociala kredit- och massövervakningssystem som säkerställer att de behåller sin makt samtidigt som de kränker mänskliga rättigheter.
 
 ### Autonoma vapen
+Autonoma vapen
 Företag säljer redan AI-drivna vapen till regeringar.
 Lanius bygger flygande självmordsdrönare som autonomt identifierar fiender.
-Palantirs AIP-system använder stora språkmodeller för att analysera stridsfältdata och komma med optimala strategier.
+Palantirs AIP-system använder stora språkmodeller för att analysera slagfältsdata och komma med optimala strategier.
 
-Nationer och vapenföretag har insett att AI kommer att ha en enorm inverkan på
+Nationer och vapenföretag har insett att AI kommer att ha en enorm inverkan på att överträffa sina fiender.
+Vi har gått in i en ny kapprustning.
+Denna dynamik belönar att skynda på och skära hörn.
 
+Just nu har vi fortfarande människor i loopen för dessa vapen.
+Men när kapaciteten hos dessa AI-system förbättras kommer det att bli mer och mer tryck att ge maskinerna makten att fatta beslut.
+När vi delegerar kontrollen över vapen till AI, kan fel och buggar få fruktansvärda konsekvenser.
+Den hastighet med vilken AI kan bearbeta information och fatta beslut kan orsaka att konflikter eskalerar på några minuter.
+En nyligen publicerad artikel konstaterar att "modeller tenderar att utveckla kapprustningsdynamik, vilket leder till större konflikter och i sällsynta fall till och med till användning av kärnvapen".
 
-### Autonomous weapons
+Läs mer på stopkillerrobots.org
 
-Companies are already selling AI-powered weapons to governments.
-Lanius builds [flying suicide drones](https://www.youtube.com/watch?v=G7yIzY1BxuI) that autonomously identify foes.
-Palantir's [AIP system](https://www.youtube.com/watch?v=XEM5qz__HOU) uses large language models to analyze battlefield data and come up with optimal strategies.
+## Nära framtida faror
+### Biologiska vapen
+AI kan göra kunskap mer tillgänglig, vilket också inkluderar kunskap om hur man skapar biologiska vapen. Denna artikel visar hur GPT-4 kan hjälpa icke-vetenskapliga studenter att skapa en pandemi-patogen:
 
-Nations and weapon companies have realized that AI will have a huge impact on besting their enemies.
-We've entered a new arms race.
-This dynamic rewards speeding up and cutting corners.
+På en timme föreslog chatbotarna fyra potentiella pandemi-patogener, förklarade hur de kan genereras från syntetiskt DNA med hjälp av omvänd genetik, försåg namnen på DNA-syntesföretag som troligen inte screenar beställningar, identifierade detaljerade protokoll och hur man felsöker dem, och rekommenderade att någon som saknar färdigheterna att utföra omvänd genetik engagerar en kärnanläggning eller ett kontraktsforskningsföretag.
 
-Right now, we still have humans in the loop for these weapons.
-But as the capabilities of these AI systems improve, there will be more and more pressure to give the machines the power to decide.
-When we delegate control of weapons to AI, errors and bugs could have horrible consequences.
-The speed at which AI can process information and make decisions may cause conflicts to escalate in minutes.
-A [recent paper](https://arxiv.org/pdf/2401.03408.pdf) concludes that "models tend to develop arms-race dynamics, leading to greater conflict, and in rare cases, even to the deployment of nuclear weapons".
+Denna typ av kunskap har aldrig varit så tillgänglig, och vi har inte säkerhetsåtgärderna på plats för att hantera de potentiella konsekvenserna.
 
-Read more at [stopkillerrobots.org](https://www.stopkillerrobots.org/military-and-killer-robots/)
+Dessutom kan vissa AI-modeller användas för att designa helt nya farliga patogener.
+En modell kallad MegaSyn designade 40 000 nya kemiska vapen/toxiska molekyler på en timme.
+Den revolutionära AlphaFold-modellen kan förutsäga strukturen av proteiner, vilket också är en dual-use technology.
+Att förutsäga proteinstrukturer kan användas för att "upptäcka sjukdomsframkallande mutationer med hjälp av en individs genomsekvens".
+Forskare skapar nu till och med helt autonoma kemiska laboratorier, där AI-system själva kan syntetisera nya kemikalier.
 
-## Near future dangers
+Den grundläggande faran är att kostnaden för att designa och använda biologiska vapen sänks med magnituder på grund av AI.
 
-### Biological weapons
+### Datorvirus och Cybersäkerhet 
+Praktiskt taget allt vi gör idag är på något sätt beroende av datorer.
+Vi betalar för våra dagligvaror, planerar våra dagar, kontaktar våra nära och kära och till och med kör våra bilar med datorer.
 
-AI can make knowledge more accessible, which also includes knowledge about how to create biological weapons. [This paper](https://arxiv.org/abs/2306.03809) shows how GPT-4 can help non-scientist students to create a pandemic pathogen:
+Moderna AI-system kan analysera och skriva programvara.
+De kan hitta sårbarheter i programvara, och de kan användas för att utnyttja dem.
+När AI-kapaciteten växer kommer också kapaciteten för de utnyttjanden de kan skapa att växa.
 
-> In one hour, the chatbots suggested four potential pandemic pathogens, explained how they can be generated from synthetic DNA using reverse genetics, supplied the names of DNA synthesis companies unlikely to screen orders, identified detailed protocols and how to troubleshoot them, and recommended that anyone lacking the skills to perform reverse genetics engage a core facility or contract research organization.
+Mycket potenta datorvirus har alltid varit extremt svåra att skapa, men AI kan förändra detta.
+Istället för att behöva anlita ett team av skickliga säkerhetsexperter/hackare för att hitta zero-day-sårbarheter, kan du bara använda en mycket billigare AI för att göra det åt dig. Naturligtvis kan AI också hjälpa till med cyberförsvar, och det är oklart på vilken sida fördelen ligger.
 
-This type of knowledge has never been so accessible, and we do not have the safeguards in place to deal with the potential consequences.
+Läs mer om AI och cybersäkerhetsrisker
 
-Additionally, some AI models can be used to design completely new hazardous pathogens.
-A model called MegaSyn designed [40,000 new chemical weapons / toxic molecules in one hour](https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx).
-The revolutionary AlphaFold model can predict the structure of proteins, which is also a [dual-use technology](https://unicri.it/sites/default/files/2021-12/21_dual_use.pdf).
-Predicting protein structures can be used to "discover disease-causing mutations using one individual’s genome sequence".
-Scientists are now even creating [fully autonomous chemical labs, where AI systems can synthesize new chemicals on their own](https://twitter.com/andrewwhite01/status/1670794000398184451).
+### Existentiell risk
+Många AI-forskare varnar för att AI kan leda till mänsklighetens slut.
 
-The fundamental danger is that the cost of designing and applying biological weapons is being lowered by orders of magnitude because of AI.
-
-### Computer viruses and hacks
-
-Virtually everything we do nowadays is in some way dependent on computers.
-We pay for our groceries, plan our days, contact our loved ones and even drive our cars with computers.
-
-Modern AI systems can analyze and write software.
-They [can find vulnerabilities](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) in software, and [they could be used to exploit them](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/).
-As AI capabilities grow, so will the capabilities of the exploits they can create.
-
-Highly potent computer viruses have always been extremely hard to create, but AI could change that.
-Instead of having to hire a team of skilled security experts/hackers to find zero-day exploits, you could just use a far cheaper AI to do it for you. Of course, AI could also help with cyberdefense, and it is unclear on which side the advantage lies.
-
-[Read more about AI and cybersecurity risks](/cybersecurity-risks)
-
+Mycket intelligenta saker är mycket kraftfulla.
+Om vi bygger en maskin som är mycket mer intelligent än människor måste vi vara säkra på att den vill samma sak som vi vill.
+Detta visar sig dock vara mycket svårt.
+Detta kallas anpassningsproblemet.
+Om vi misslyckas med att lösa det i tid kan vi hamna med superintelligenta maskiner som inte bryr sig om vårt välbefinnande.
+Vi skulle introducera en ny art
 ### Existential Risk
 
 Many AI researchers are warning that AI could lead to the end of humanity.
