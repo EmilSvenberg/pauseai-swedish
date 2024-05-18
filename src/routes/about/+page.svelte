@@ -1,5 +1,4 @@
-<h1>About PauseAI</h1>
+<h1>Om PauseAI</h1>
 <p>
-	We are volunteers who are united by a desire to prevent the absolutely worst thing that has ever
-	happened.
+	Vi är volontärer som är förenade av en önskan att förhindra det absolut värsta som kan hända.
 </p>
