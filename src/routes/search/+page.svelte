@@ -29,11 +29,11 @@
 </script>
 
 <svelte:head>
-	<title>Search</title>
+	<title>Sök</title>
 </svelte:head>
 
 <div data-pagefind-ignore>
-	<h1>Search</h1>
+	<h1>Sök</h1>
 
 	<div id="search" />
 </div>
