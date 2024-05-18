@@ -110,5 +110,77 @@ Vi bör agera som om vi har väldigt lite tid kvar eftersom vi inte vill bli tag
 
 ## Om vi pausar, vad händer med Kina?
 
-För det första har Kina i detta skede strängare AI-regler än praktiskt taget alla andra länder.
-De [tillät inte ens chatbots](https://www.reuters.com/technology/chinas-slow-ai-roll-out-points
+Till att börja med har Kina vid denna tidpunkt striktare AI-regler än praktiskt taget något annat land.
+De [tillät inte ens chatbots](https://www.reuters.com/technology/chinas-slow-ai-roll-out-points-its-tech-sectors-new-regulatory-reality-2023-07-12/) och [förbjöd träning på internetdata](https://cointelegraph.com/news/china-sets-stricter-rules-training-generative-ai-models) fram till [september 2023](https://asia.nikkei.com/Business/Technology/China-approves-AI-chatbot-releases-but-will-it-unleash-innovation).
+Kina har en mer kontrollerande regering och har därför ännu mer anledning att frukta de okontrollerbara och oförutsägbara effekterna av AI.
+Under FN:s säkerhetsråds möte om AI-säkerhet var Kina det enda landet som nämnde möjligheten att genomföra en paus.
+
+Observera också att vi främst begär en _internationell_ paus, verkställd genom ett fördrag.
+Ett sådant fördrag behöver också undertecknas av Kina.
+Om fördraget garanterar att andra nationer också kommer att stoppa, och det finns tillräckliga mekanismer för efterlevnad,
+borde detta vara något som Kina också vill se.
+
+## OpenAI och Google säger att de vill bli reglerade. Varför protesterar ni mot dem?
+
+Vi applåderar [OpenAI](https://openai.com/blog/governance-of-superintelligence) och [Google](https://www.ft.com/content/8be1a975-e5e0-417d-af51-78af17ef4b79) för deras krav på internationell reglering av AI.
+Men vi anser att de nuvarande förslagen inte är tillräckliga för att förhindra en AI-katastrof.
+Google och Microsoft har ännu inte offentligt uttalat sig om den existentiella risken med AI.
+Endast OpenAI [nämner uttryckligen risken för utrotning](https://openai.com/blog/governance-of-superintelligence), och vi applåderar dem återigen för att ta denna risk på allvar.
+Men deras strategi är ganska tydlig: en paus är omöjlig, vi måste nå superintelligens först.
+Problemet med detta är dock att de [inte tror att de har löst anpassningsproblemet](https://youtu.be/L_Guz73e6fw?t=1478).
+AI-företagen är låsta i en kapplöpning mot botten, där AI-säkerhet offras för konkurrensfördelar.
+Detta är helt enkelt resultatet av marknadsdynamik.
+Vi behöver regeringar som ingriper och implementerar policyer (på internationell nivå) som [förhindrar de värsta utfallen](/proposal).
+
+## Pushing AI-företagen den existentiella riskberättelsen för att manipulera oss?
+
+Vi kan inte veta säkert vilka motiv dessa företag har, men vi vet att **existentiell risk inte initialt drevs av AI-företag - det var forskare, aktivister och NGO:er**.
+Låt oss titta på tidslinjen.
+
+Det har funnits många människor som har varnat för existentiell risk sedan början av 2000-talet.
+Eliezer Yudkowsky, Nick Bostrom, Stuart Russell, Max Tegmark och många andra.
+De hade ingen AI-teknik att driva - de var helt enkelt bekymrade över mänsklighetens framtid.
+
+AI-företagen nämnde aldrig existentiell risk förrän mycket nyligen.
+
+Sam Altman är ett intressant undantag.
+Han skrev om existentiell AI-risk [redan 2015, på sin privata blogg](https://blog.samaltman.com/machine-intelligence-part-1), innan han grundade OpenAI.
+Under åren sedan gjorde han praktiskt taget inga explicita nämnder av existentiell risk igen.
+Under senatsförhöret den 16 maj 2023, när han tillfrågades om sitt blogginlägg om existentiell risk, svarade han bara genom att prata om jobb och ekonomi.
+Han drev inte den existentiella riskberättelsen här, han undvek den aktivt.
+
+I maj 2023 förändrades allt:
+
+- Den 1 maj slutar 'Gudfadern av AI' Geoffrey Hinton [sitt jobb på Google](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/) för att varna för existentiell risk.
+- Den 5 maj tillkännages den [första PauseAI-protesten](https://twitter.com/Radlib4/status/1654262421794717696), precis vid OpenAI:s dörr.
+- Den 22 maj publicerade OpenAI [ett blogginlägg om styrningen av superintelligens](https://openai.com/blog/governance-of-superintelligence), och nämnde existentiell risk för första gången.
+- Den 24 maj erkänner ex-Google CEO Eric Schmidt existentiell risk.
+- Den 30 maj publicerades [Safe.ai-uttalandet (som erkänner existentiell risk)](https://www.safe.ai/statement-on-ai-risk). Denna gång inkluderades människor från OpenAI, Google och Microsoft.
+
+Dessa företag har varit mycket långsamma att erkänna existentiell risk, med tanke på att många av deras anställda har varit medvetna om det i åratal.
+Så enligt vår syn är AI-företagen inte de som driver den existentiella riskberättelsen, de har reagerat på andra som driver den, och har väntat med sitt svar tills det var absolut nödvändigt.
+
+Affärsincitamenten pekar i motsatt riktning: företag vill snarare inte att folk ska oroa sig för riskerna med deras produkter.
+Praktiskt taget alla företag förminskar riskerna för att attrahera kunder och investeringar, snarare än att överdriva dem.
+Hur mycket strikt reglering och negativ uppmärksamhet bjuder företagen in genom att erkänna dessa faror?
+Och skulle ett företag som OpenAI [dedikera 20% av sina beräkningsresurser](https://openai.com/blog/introducing-superalignment) till AI-säkerhet om de inte trodde på riskerna?
+
+Här är vår tolkning: AI-företagen undertecknade uttalandet eftersom _de vet att existentiell risk är ett problem som måste tas på största allvar_.
+
+En stor anledning till att många andra människor fortfarande inte vill tro att existentiell risk är en verklig oro?
+För att erkänna att _vi faktiskt är i fara_ är en mycket, mycket skrämmande sak.
+
+[Läs mer om psykologin bakom existentiell risk](/psychology-of-x-risk).
+
+## Okej, jag vill hjälpa! Vad kan jag göra?
+
+Det finns många [saker du kan göra](/action).
+På egen hand kan du skriva ett [brev](/writing-a-letter), posta [flyers](/flyering), informera [andra](/action#you-can-do-this), delta i en [protest](/protests), eller [donera](/donate) pengar!
+Men ännu viktigare: du kan [gå med i PauseAI](/join) och samordna med andra som tar åtgärder.
+Om du vill bidra mer kan du bli volontär och gå med i ett av våra [team](/teams).
+
+
+
+
+
+
