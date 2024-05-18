@@ -84,28 +84,28 @@
 	{/each}
 	{#if loading}
 		<div class="message assistant loading">
-			<p>Thinking...</p>
+			<p>Tänker...</p>
 		</div>
 	{/if}
 </main>
 
 <footer>
 	{#if messages.length > maxMessages}
-		<p>You reached the maximum amount of messages, you can clear the chat</p>
-		<button class="button" on:click={clear}>Clear chat</button>
-		<button class="button" on:click={copy}>Copy chat</button>
+		<p>Du har nått maximalt antal meddelanden, du kan rensa chatten</p>
+		<button class="button" on:click={clear}>Rensa chatten</button>
+		<button class="button" on:click={copy}>Kopiera chatten</button>
 	{:else}
 		<form on:submit|preventDefault={sendMessage}>
-			<textarea placeholder="Type here" bind:value={input} on:keydown={handleKeyDown} />
+			<textarea placeholder="Skriv här" bind:value={input} on:keydown={handleKeyDown} />
 			<div class="buttons">
-				<button on:click={clear} class="button button--alt">Clear chat</button>
-				<button on:click={copy} class="button button--alt">Copy chat</button>
-				<button type="submit" disabled={loading || input == ''}> Send </button>
+				<button on:click={clear} class="button button--alt">Rensa chatten</button>
+				<button on:click={copy} class="button button--alt">Kopiera chatten</button>
+				<button type="submit" disabled={loading || input == ''}> Skicka </button>
 			</div>
 		</form>
 	{/if}
 	<div class="disclaimer">
-		Disclaimer: {botName} is just a cheeky chatbot, don't take it too seriously.
+		Varning: {botName} är bara en skämtsam chatbot, ta det inte för seriöst.
 	</div>
 </footer>
 
