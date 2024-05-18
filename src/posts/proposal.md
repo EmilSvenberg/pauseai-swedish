@@ -1,83 +1,68 @@
 ---
-title: PauseAI Proposal
-description: Implement a temporary pause on the training of the most powerful
-  general AI systems.
+title: PauseAI Förslag
+description: Implementera en tillfällig paus för träning av AI-system som är kraftfullare än GPT-4, förbjuda träning på upphovsrättsskyddat material, håll modellskapare ansvariga.
 ---
 
-**Implement a temporary pause on the training of the most powerful general AI systems**, until we know how to build them safely and keep them under democratic control.
+**Implementera en paus för träning av AI-system som är kraftfullare än GPT-4**, tills vi vet hur man bygger dem säkert och håller dem under demokratisk kontroll.
 
-_Version: Feb 4th, 2025_
+Enskilda länder kan och bör implementera denna åtgärd _just nu_.
+Speciellt USA (eller Kalifornien, specifikt) bör implementera en paus, eftersom det är hem för praktiskt taget alla ledande AI-företag.
+Många forskare och industriledare [håller med om att en paus är nödvändig](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), och (USA) allmänheten stöder också starkt en paus ([64%](https://www.campaignforaisafety.org/usa-ai-x-risk-perception-tracker/) - [69%](https://today.yougov.com/topics/technology/survey-results/daily/2023/04/03/ad825/2)).
 
-Individual countries can and should implement this measure _right now_.
-Especially the US (or California, specifically) should implement a Pause, since it is home to virtually all leading AI companies.
-Many scientists and industry leaders [agree that a Pause is necessary](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), and the (US) public also strongly supports a pause ([64%](https://www.campaignforaisafety.org/usa-ai-x-risk-perception-tracker/) - [69%](https://today.yougov.com/topics/technology/survey-results/daily/2023/04/03/ad825/2)).
+Vi kan dock inte förvänta oss att länder eller företag ska riskera sin konkurrensfördel genom att pausa AI-träningskörningar under en lång tid om andra länder eller företag inte gör detsamma.
+Det är därför vi behöver en **global paus**.
 
-However, we cannot expect countries or companies to risk their competitive advantage by pausing AI training runs for a long time if other countries or companies do not do the same.
-This is why we need a **global Pause**.
+## Implementering av en global paus
 
-Let's dive into what is needed to get there.
+Ett internationellt avtal upprättas vanligtvis genom ett toppmöte, där ledare för länder träffas för att diskutera frågan och fatta ett beslut.
+Storbritannien har tagit initiativet och har varit värd för ett AI-säkerhetstoppmöte hösten 2023.
+Och två ytterligare toppmöten har tillkännagivits.
+[Läs mer om toppmötena](/summit).
 
-## Getting to a Treaty
+Det primära målet med toppmötet bör vara ett **fördrag**.
+Detta fördrag bör specificera de politiska åtgärder som skyddar oss från [riskerna med AI](/risks).
+Detta fördrag måste undertecknas av alla FN-medlemsstater.
 
-An international agreement is typically established through a summit, where leaders of countries meet to discuss the issue and make a decision.
-We have already had [three AI safety summits so far](/summit).
+- **Inrätta en internationell AI-säkerhetsbyrå**, liknande IAEA. Denna byrå kommer att vara ansvarig för:
+  - Bevilja godkännande för _distributioner_. Detta kommer att inkludera rödteamning / modelevalueringar.
+  - Bevilja godkännande för _nya träningskörningar_ av AI-modeller över en viss storlek (t.ex. 1 miljard parametrar).
+  - Periodiska möten för att diskutera framstegen inom AI-säkerhetsforskning.
+- **Tillåt endast träning av generella AI-system som är kraftfullare än GPT-4 om deras säkerhet kan garanteras**.
+  - Med kraftfullare än GPT-4 menar vi alla AI-modeller som antingen är 1) större än 10^12 parametrar, 2) har mer än 10^25 FLOPs använda för träning eller 3) förmågor som förväntas överstiga GPT-4.
+  - Observera att detta inte riktar sig mot _smala_ AI-system, som bildigenkänning som används för att diagnostisera cancer.
+  - Kräva [övervakning under träningskörningar](https://www.alignmentforum.org/posts/Zfk6faYvcf5Ht7xDx/compute-thresholds-proposed-rules-to-mitigate-risk-of-a-lab).
+  - Säkerhet kan garanteras om det finns stark vetenskaplig konsensus och [bevis](https://arxiv.org/abs/2309.01933) för att _anpassningsproblemet har lösts_. Just nu är detta inte fallet, så just nu bör vi inte tillåta träning av sådana system.
+  - Det kan vara möjligt att AI-anpassningsproblemet _aldrig löses_ - det kan vara olösligt. I så fall bör vi aldrig tillåta träning av sådana system.
+  - Även om vi kan bygga kontrollerbara, säkra AI, bör vi endast bygga och distribuera sådan teknik med **stark demokratisk kontroll**. En superintelligens är för kraftfull för att kontrolleras av ett enda företag eller land.
+  - [**Spåra försäljningen av GPU:er**](https://arxiv.org/abs/2303.11341) och annan hårdvara som kan användas för AI-träning.
+- **Tillåt endast distribution av modeller efter att inga [farliga förmågor](/dangerous-capabilities) finns närvarande**.
+  - Vi kommer att behöva standarder och oberoende rödteamning för att avgöra om en modell har farliga förmågor.
+  - Listan över farliga förmågor kan förändras över tid i takt med att AI-förmågorna växer.
+  - Observera att fullständigt förlita sig på modelevalueringar [inte är tillräckligt](/4-levels-of-ai-regulation).
 
-The primary end-goal of these summits should be a **treaty**.
-But up until now, the summits have not been effective at producing anything legally binding.
-And treaty building tends to be slow and prone to vetoes.
-We [may not have the time](/urgency) to wait for traditional treaty making processes.
+Implementering av en paus _kan_ slå tillbaka om det inte görs på rätt sätt.
+Läs mer om [hur dessa risker kan mildras](/mitigating-pause-failures).
 
-So we need a new **treaty making process**:
+För mer information om hur leveranskedjan för AI-chip kan användas för global tillsyn, läs [Bygga pausknappen](/building-the-pause-button).
 
-- The involvement of both the **US and China** is crucial.
-- It needs to be **impervious to vetoes** by any single country.
-- It needs to be **fast**. Normal treaty making processes take years, and we [may not have that time](/urgency).
-- The scale of this treaty making process is unprecedented, and it needs buy-in from all countries.
+## Andra åtgärder som effektivt saktar ner
 
-The treaty itself should contain the following **measures**:
+- **Förbjud träning av AI-system på upphovsrättsskyddat material**. Detta hjälper till med upphovsrättsproblem, saktar ner växande ojämlikhet och saktar ner framsteg mot superintelligens.
+- **Håll AI-modellskapare ansvariga** för brott som begås med deras AI-system. Detta ger modellskapare fler incitament att säkerställa att deras modeller är säkra.
 
-### Treaty Measures
+## Långsiktig policy
 
-- **Set up an international AI safety agency**, similar to the IAEA. This agency will be responsible for:
-  - Granting approval for _deployments_. This will include red-teaming / [model evaluations](/evaluations).
-  - Granting approval for _new training runs_ of AI models above a certain size (e.g. 1 billion parameters).
-  - Periodic meetings to discuss the progress of AI safety research.
+Vid tidpunkten för detta skrivande kostar det miljoner dollar att träna en modell i GPT-3-storlek.
+Detta gör det mycket svårt att träna sådana modeller, och detta gör det lättare att genomdriva kontrollen av träning med hjälp av GPU-spårning.
+Men kostnaden för att träna en modell minskar exponentiellt på grund av hårdvaruförbättringar och nya träningsalgoritmer.
 
-- **Only allow training of general AI systems if their safety can be guaranteed**.
-  - By general AI models, we mean models that are either 1) larger than 10^12 parameters, 2) have more than 10^25 FLOPs used for training or 3) capabilities that are expected to exceed a score of 86% on the MMLU benchmark. Note that this does not target _narrow_ AI systems, like image recognition used for diagnosing cancer.
-  - It may be possible that the AI alignment problem is _never solved_ - it may be unsolvable. In that case, we should never allow training of such systems.
-  - **Verify** that these dangerous training runs are not taking place. This can be done in [numerous ways](https://arxiv.org/abs/2408.16074): [tracking GPUs](https://arxiv.org/abs/2303.11341), incentivising whistleblowers, energy monitoring, data center inspections, financial intelligence, semiconductor manufacturing facility inspections, AI developer inspections, chip location tracking and chip-based reporting. The [AI chip supply chain](https://www.governance.ai/post/computing-power-and-the-governance-of-ai) is highly centralized which enables global oversight.
-  - Require [oversight during training runs](https://www.alignmentforum.org/posts/Zfk6faYvcf5Ht7xDx/compute-thresholds-proposed-rules-to-mitigate-risk-of-a-lab).
-  - Even if we can build controllable, safe AI, only build and deploy such technology with **strong democratic control**. A superintelligence is too powerful to be controlled by a single company or country.
+Det kommer att komma en tidpunkt då potentiellt superintelligenta AI-modeller kan tränas för några tusen dollar eller mindre, kanske till och med på konsumenthårdvara.
+Vi måste vara förberedda för detta.
+Vi bör överväga följande policyer:
 
-- **Only allow deployment of models after no [dangerous capabilities](/dangerous-capabilities) are present**. (Pre-deployment evaluation)
-  - We will need standards and independent red-teaming to determine whether a model has dangerous capabilities.
-  - The list of dangerous capabilities may change over time as AI capabilities grow.
-  - Note that fully relying on model evaluations [is not enough](/4-levels-of-ai-regulation).
+- **Begränsa publicering av träningsalgoritmer / förbättringar av körtid**. Ibland publiceras en ny algoritm som gör träningen mycket mer effektiv. Transformer-arkitekturen, till exempel, möjliggjorde praktiskt taget alla senaste framsteg inom AI. Dessa typer av förmågehopp kan hända när som helst, och vi bör överväga att begränsa publiceringen av sådana algoritmer för att minimera risken för ett plötsligt förmågehopp. På samma sätt kan vissa innovationer i körtid drastiskt förändra vad som kan göras med befintliga modeller. Dessa framsteg kan också behöva regleras.
+- **Begränsa kapacitetsförbättringar av datorkraft**. Om träning av en superintelligens blir möjligt på konsumenthårdvara, är vi i trubbel. Vi bör överväga att begränsa kapacitetsförbättringar av hårdvara.
 
-Implementing a pause _can_ backfire if it is not done properly.
-Read more about [how these risks can be mitigated](/mitigating-pause-failures).
+## Hjälp till att uppnå detta
 
-For more details on how the AI chip supply chain can be used for global oversight, read [Building the Pause Button](/building-the-pause-button).
-
-## Other measures that effectively slow down
-
-- **Ban training of AI systems on copyrighted material**. This helps with copyright issues, slows growing inequality and slows down progress towards superintelligence.
-- **Hold AI model creators liable** for criminal acts committed using their AI systems. This gives model creators more incentives to make sure their models are safe.
-
-## Long term policy
-
-At the time of writing, training a GPT-3 sized model costs millions of dollars.
-This makes it very difficult to train such models, and this makes it easier to enforce the control of training using GPU tracking.
-However, the cost of training a model is decreasing exponentially due to hardware improvements and new training algorithms.
-
-There will come a point where potentially superintelligent AI models can be trained for a few thousand dollars or less, perhaps even on consumer hardware.
-We need to be prepared for this.
-We should consider the following policies:
-
-- **Limit publication of training algorithms / runtime improvements**. Sometimes a new algorithm is published that makes training much more efficient. The Transformer architecture, for example, enabled virtually all recent progress in AI. These types of capability jumps can happen at any time, and we should consider limiting the publication of such algorithms to minimize the risk of a sudden capability jump. There are also innovations that enable [decentralized training runs](https://www.primeintellect.ai/blog/opendiloco). Similarly, some runtime innovations could drastically change what can be done with existing models. Banning the publication of such algorithms can be implemented using similar means as how we ban other forms of information, such as illegal pornographic media.
-- **Limit capability advancements of computational resources**. If training a superintelligence becomes possible on consumer hardware, we are in trouble. We should consider limiting capability advances of hardware (e.g. through limitations on lithography, chip design, and novel computing paradigms such as photonic chips and quantum computing).
-
-## Help us achieve this
-
-[Join](/join) the movement to collaborate or [take action](/action) on your own!
+[Gå med](/join) i rörelsen för att samarbeta eller [vidta åtgärder](/action) på egen hand!
