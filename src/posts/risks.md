@@ -149,7 +149,7 @@ När AI-kapaciteten växer kommer också kapaciteten för de utnyttjanden de kan
 Mycket potenta datorvirus har alltid varit extremt svåra att skapa, men AI kan förändra detta.
 Istället för att behöva anlita ett team av skickliga säkerhetsexperter/hackare för att hitta zero-day-sårbarheter, kan du bara använda en mycket billigare AI för att göra det åt dig. Naturligtvis kan AI också hjälpa till med cyberförsvar, och det är oklart på vilken sida fördelen ligger.
 
-Läs mer om AI och cybersäkerhetsrisker
+[Läs mer om AI och cybersäkerhetsrisker](/cybersecurity-risks)
 
 Additionally, some AI models can be used to design completely new hazardous pathogens.
 A model called MegaSyn designed [40,000 new chemical weapons / toxic molecules in one hour](https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx).
