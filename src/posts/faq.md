@@ -113,74 +113,77 @@ Vi bör agera som om vi har väldigt lite tid kvar eftersom vi inte vill bli tag
 
 ## Om vi pausar, vad händer med Kina?
 
-For starters, at this point, China has stricter AI regulations than virtually any other country.
-They [didn't even allow chatbots](https://www.reuters.com/technology/chinas-slow-ai-roll-out-points-its-tech-sectors-new-regulatory-reality-2023-07-12/) and [disallowed training on internet data](https://cointelegraph.com/news/china-sets-stricter-rules-training-generative-ai-models) up [until September 2023](https://asia.nikkei.com/Business/Technology/China-approves-AI-chatbot-releases-but-will-it-unleash-innovation).
-China has a more controlling government and thus has even more reason to fear the uncontrollable and unpredictable impacts of AI.
-During the UNSC meeting on AI safety, China was the only country that mentioned the possibility of implementing a pause.
+Till att börja med har Kina vid denna tidpunkt striktare AI-regler än praktiskt taget något annat land.
+De [tillät inte ens chatbots](https://www.reuters.com/technology/chinas-slow-ai-roll-out-points-its-tech-sectors-new-regulatory-reality-2023-07-12/) och [förbjöd träning på internetdata](https://cointelegraph.com/news/china-sets-stricter-rules-training-generative-ai-models) fram till [september 2023](https://asia.nikkei.com/Business/Technology/China-approves-AI-chatbot-releases-but-will-it-unleash-innovation).
+Kina har en mer kontrollerande regering och har därför ännu mer anledning att frukta de okontrollerbara och oförutsägbara effekterna av AI.
+Under FN:s säkerhetsråds möte om AI-säkerhet var Kina det enda landet som nämnde möjligheten att genomföra en paus.
 
-Also note that we are primarily asking for an _international_ pause, enforced by a treaty.
-Such a treaty also needs to be signed by China.
-If the treaty guarantees that other nations will stop as well, and there are sufficient enforcement mechanisms in place,
-this should be something that China will want to see as well.
+Observera också att vi främst begär en _internationell_ paus, verkställd genom ett fördrag.
+Ett sådant fördrag behöver också undertecknas av Kina.
+Om fördraget garanterar att andra nationer också kommer att stoppa, och det finns tillräckliga mekanismer för efterlevnad,
+borde detta vara något som Kina också vill se.
 
-## OpenAI and Google are saying they want to be regulated. Why are you protesting them?
+## OpenAI och Google säger att de vill bli reglerade. Varför protesterar ni mot dem?
 
-We applaud [OpenAI](https://openai.com/blog/governance-of-superintelligence) and [Google](https://www.ft.com/content/8be1a975-e5e0-417d-af51-78af17ef4b79) for their calls for international regulation of AI.
-However, we believe that the current proposals are not enough to prevent an AI catastrophe.
-Google and Microsoft have not yet publicly stated anything about the existential risk of AI.
-Only OpenAI [explicitly mentions the risk of extinction](https://openai.com/blog/governance-of-superintelligence), and again we applaud them for taking this risk seriously.
-However, their strategy is quite explicit: a Pause is impossible, we need to get to superintelligence first.
-The problem with this, however, is that they [do not believe they have solved the alignment problem](https://youtu.be/L_Guz73e6fw?t=1478).
-The AI companies are locked in a race to the bottom, where AI safety is sacrificed for competitive advantage.
-This is simply the result of market dynamics.
-We need governments to step in and implement policies (at an international level) that [prevent the worst outcomes](/proposal).
+Vi applåderar [OpenAI](https://openai.com/blog/governance-of-superintelligence) och [Google](https://www.ft.com/content/8be1a975-e5e0-417d-af51-78af17ef4b79) för deras krav på internationell reglering av AI.
+Men vi anser att de nuvarande förslagen inte är tillräckliga för att förhindra en AI-katastrof.
+Google och Microsoft har ännu inte offentligt uttalat sig om den existentiella risken med AI.
+Endast OpenAI [nämner uttryckligen risken för utrotning](https://openai.com/blog/governance-of-superintelligence), och vi applåderar dem återigen för att ta denna risk på allvar.
+Men deras strategi är ganska tydlig: en paus är omöjlig, vi måste nå superintelligens först.
+Problemet med detta är dock att de [inte tror att de har löst anpassningsproblemet](https://youtu.be/L_Guz73e6fw?t=1478).
+AI-företagen är låsta i en kapplöpning mot botten, där AI-säkerhet offras för konkurrensfördelar.
+Detta är helt enkelt resultatet av marknadsdynamik.
+Vi behöver regeringar som ingriper och implementerar policyer (på internationell nivå) som [förhindrar de värsta utfallen](/proposal).
 
-## Are AI companies pushing the existential risk narrative to manipulate us?
+## Pushing AI-företagen den existentiella riskberättelsen för att manipulera oss?
 
-We can't know for certain what motivations these companies have, but we do know that **x-risk was not initially pushed by AI companies - it was scientists, activists and NGOs**.
-Let's look at the timeline.
+Vi kan inte veta säkert vilka motiv dessa företag har, men vi vet att **existentiell risk inte initialt drevs av AI-företag - det var forskare, aktivister och NGO:er**.
+Låt oss titta på tidslinjen.
 
-There have been many people who have warned about x-risk since the early 2000s.
-Eliezer Yudkowsky, Nick Bostrom, Stuart Russell, Max Tegmark, and many others.
-They had no AI tech to push - they were simply concerned about the future of humanity.
+Det har funnits många människor som har varnat för existentiell risk sedan början av 2000-talet.
+Eliezer Yudkowsky, Nick Bostrom, Stuart Russell, Max Tegmark och många andra.
+De hade ingen AI-teknik att driva - de var helt enkelt bekymrade över mänsklighetens framtid.
 
-The AI companies never mentioned x-risk until very recently.
+AI-företagen nämnde aldrig existentiell risk förrän mycket nyligen.
 
-Sam Altman is an interesting exception.
-He wrote about existential AI risk [back in 2015, on his private blog](https://blog.samaltman.com/machine-intelligence-part-1), before founding OpenAI.
-In the years since he made virtually no explicit mention of x-risk again.
-During the Senate hearing on May 16, 2023, when asked about his x-risk blog post, he only answered by talking about jobs and the economy.
-He was not pushing the x-risk narrative here, he was actively avoiding it.
+Sam Altman är ett intressant undantag.
+Han skrev om existentiell AI-risk [redan 2015, på sin privata blogg](https://blog.samaltman.com/machine-intelligence-part-1), innan han grundade OpenAI.
+Under åren sedan gjorde han praktiskt taget inga explicita nämnder av existentiell risk igen.
+Under senatsförhöret den 16 maj 2023, när han tillfrågades om sitt blogginlägg om existentiell risk, svarade han bara genom att prata om jobb och ekonomi.
+Han drev inte den existentiella riskberättelsen här, han undvek den aktivt.
 
-In May 2023, everything changed:
+I maj 2023 förändrades allt:
 
-- On May 1st, 'Godfather of AI' Geoffrey Hinton [quits his job at Google](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/) to warn about x-risk.
-- On May 5th, the [first PauseAI protest is announced](https://twitter.com/Radlib4/status/1654262421794717696), right at OpenAI's doorstep.
-- On May 22nd, OpenAI published [a blog post about the governance of superintelligence](https://openai.com/blog/governance-of-superintelligence), and mentioned x-risk for the first time.
-- On May 24th, ex-Google CEO Eric Schmidt acknowledges x-risk.
-- On May 30th, the [Safe.ai statement (acknowledging x-risk)](https://www.safe.ai/statement-on-ai-risk) was published. This time, including people from OpenAI, Google and Microsoft.
+- Den 1 maj slutar 'Gudfadern av AI' Geoffrey Hinton [sitt jobb på Google](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/) för att varna för existentiell risk.
+- Den 5 maj tillkännages den [första PauseAI-protesten](https://twitter.com/Radlib4/status/1654262421794717696), precis vid OpenAI:s dörr.
+- Den 22 maj publicerade OpenAI [ett blogginlägg om styrningen av superintelligens](https://openai.com/blog/governance-of-superintelligence), och nämnde existentiell risk för första gången.
+- Den 24 maj erkänner ex-Google CEO Eric Schmidt existentiell risk.
+- Den 30 maj publicerades [Safe.ai-uttalandet (som erkänner existentiell risk)](https://www.safe.ai/statement-on-ai-risk). Denna gång inkluderades människor från OpenAI, Google och Microsoft.
 
-These companies have been very slow to acknowledge x-risk, considering that many of their employees have been aware of it for years.
-So in our view, the AI companies are not pushing the x-risk narrative, they have been reactive to others pushing it, and have waited with their response until it was absolutely necessary.
+Dessa företag har varit mycket långsamma att erkänna existentiell risk, med tanke på att många av deras anställda har varit medvetna om det i åratal.
+Så enligt vår syn är AI-företagen inte de som driver den existentiella riskberättelsen, de har reagerat på andra som driver den, och har väntat med sitt svar tills det var absolut nödvändigt.
 
-The business incentives point in the other direction: companies would rather not have people worry about the risks of their products.
-Virtually all companies downplay risks to attract customers and investments, rather than exaggerating them.
-How much strict regulation and negative attention are the companies inviting due to admitting these dangers?
-And would a company like OpenAI [dedicate 20% of its compute resources](https://openai.com/blog/introducing-superalignment) to AI safety if it wouldn't believe in the risks?
+Affärsincitamenten pekar i motsatt riktning: företag vill snarare inte att folk ska oroa sig för riskerna med deras produkter.
+Praktiskt taget alla företag förminskar riskerna för att attrahera kunder och investeringar, snarare än att överdriva dem.
+Hur mycket strikt reglering och negativ uppmärksamhet bjuder företagen in genom att erkänna dessa faror?
+Och skulle ett företag som OpenAI [dedikera 20% av sina beräkningsresurser](https://openai.com/blog/introducing-superalignment) till AI-säkerhet om de inte trodde på riskerna?
 
-Here's our interpretation: the AI companies signed the statement because _they know that x-risk is a problem that needs to be taken very seriously_.
+Här är vår tolkning: AI-företagen undertecknade uttalandet eftersom _de vet att existentiell risk är ett problem som måste tas på största allvar_.
 
-A big reason many other people still don't want to believe that x-risk is a real concern?
-Because acknowledging that _we are in fact in danger_ is a very, very scary thing.
+En stor anledning till att många andra människor fortfarande inte vill tro att existentiell risk är en verklig oro?
+För att erkänna att _vi faktiskt är i fara_ är en mycket, mycket skrämmande sak.
 
-[Read more about the psychology of x-risk](/psychology-of-x-risk).
+[Läs mer om psykologin bakom existentiell risk](/psychology-of-x-risk).
 
-## Ok, I want to help! What can I do?
+## Okej, jag vill hjälpa! Vad kan jag göra?
 
-There are many [things that you can do](/action).
-On your own, you can write a [letter](/writing-a-letter), post [flyers](/flyering), [learn](/learn) and inform others, join a [protest](/protests), ir [donating](/donate) some money!
-But even more important: you can [join PauseAI](/join) and coordinate with others who are taking action.
-Check out if there are [local communities](/communities) in your area.
-If you want to contribute more, you can become a volunteer and join one of our [teams](/teams), or [set up a local community](/local-organizing)!
+Det finns många [saker du kan göra](/action).
+På egen hand kan du skriva ett [brev](/writing-a-letter), posta [flyers](/flyering), informera [andra](/action#you-can-do-this), delta i en [protest](/protests), eller [donera](/donate) pengar!
+Men ännu viktigare: du kan [gå med i PauseAI](/join) och samordna med andra som tar åtgärder.
+Om du vill bidra mer kan du bli volontär och gå med i ett av våra [team](/teams).
 
-Even when facing the end of the world, there can still be hope and very rewarding work to do. 💪
+
+
+
+
+
