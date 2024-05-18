@@ -1,39 +1,39 @@
 ---
-title: Donate to PauseAI
-description: With your financial support we can have a bigger impact.
+title: Donera till PauseAI
+description: Med ditt ekonomiska stöd kan vi få en större påverkan.
 ---
 
-We started PauseAI as a group of volunteers, who work on it in their free time.
-Since February 2024, PauseAI is a [registered non-profit foundation](/legal).
-We do not yet have sufficient funds to hire people to work full-time on PauseAI, so we still run on volunteer work.
-With your financial support, we can professionalize and have a bigger impact.
+Vi startade PauseAI som en grupp volontärer, som arbetar med det på sin fritid.
+Sedan februari 2024 är PauseAI en [registrerad ideell stiftelse](/legal).
+Vi har ännu inte tillräckliga medel för att anställa människor att arbeta heltid med PauseAI, så vi drivs fortfarande av volontärarbete.
+Med ditt ekonomiska stöd kan vi professionalisera och få en större påverkan.
 
-<div style="display: flex; justify-content: center;" ><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Donate now" width="256" /></a></div>
+<div style="display: flex; justify-content: center;"><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Donera nu" width="256" /></a></div>
 
-## How we use your donations
+## Hur vi använder dina donationer
 
-- **People**: build a stronger community, work on projects, organize protests, improve the website, etc.
-- **Events**: renting a location, catering, travel costs.
-- **Software**: email, website, etc.
-- **Campaigns**: online advertising, materials
-- **Legal & financial**: setting up the foundation (notary costs), bookkeeping.
-- **Community projects**: our [microgrants](/microgrants) program supports various small-scale projects.
+- **Människor**: bygga en starkare gemenskap, arbeta med projekt, organisera protester, förbättra webbplatsen, etc.
+- **Evenemang**: hyra en plats, catering, resekostnader.
+- **Programvara**: e-post, webbplats, etc.
+- **Kampanjer**: onlineannonsering, material.
+- **Juridiska & ekonomiska**: upprätta stiftelsen (notariekostnader), bokföring.
+- **Gemenskapsprojekt**: vårt [mikrobidragsprogram](/microgrants) stöder olika småskaliga projekt.
 
-## What have we already achieved
+## Vad vi redan har uppnått
 
-- 1000+ people who have [joined](/join) PauseAI, many of whom are actively working on various projects
-- 100+ projects in our Discord server (websites, workshops, videos, responses to government consultations, etc.)
-- Organized 15+ [protests](/protests) in 7 countries.
-- 30+ [Media appearances](/press) on major news outlets, podcasts, documentaries, TV and more.
-- Many meetings with politicians and other stakeholders.
+- 1000+ personer som har [gått med](/join) i PauseAI, varav många aktivt arbetar med olika projekt.
+- 100+ projekt i vår Discord-server (webbplatser, workshops, videor, svar på regeringskonsultationer, etc.).
+- Organiserat 15+ [protester](/protests) i 7 länder.
+- 30+ [medieframträdanden](/press) på stora nyhetskanaler, podcaster, dokumentärer, TV och mer.
+- Många möten med politiker och andra intressenter.
 
-## What we're planning to do
+## Vad vi planerar att göra
 
-See our [roadmap](/roadmap) for more details.
+Se vår [roadmap](/roadmap) för mer detaljer.
 
-## How to donate to PauseAI
+## Hur du donerar till PauseAI
 
-- By bank transfer. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). This is probably the cheapest way to transfer money to us.
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Supports recurring donations. [Transaction fees](https://www.paypal.com/webapps/mpp/merchant-fees) apply.
-- Through our [merchandise store](https://pauseai-shop.fourthwall.com/). All US-based credit card transactions have an added 2.9% + $0.30 payment processing fee. Non-US credit cards have a 3.9% +$0.30 payment processing fee.
-- Through [this link](https://bunq.me/pauseai) (Select Sofort - most banks and PayPal are supported)
+- Genom banköverföring. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Detta är förmodligen det billigaste sättet att överföra pengar till oss.
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Stödjer återkommande donationer. [Transaktionsavgifter](https://www.paypal.com/webapps/mpp/merchant-fees) tillkommer.
+- Genom vår [merchandise-butik](https://pauseai-shop.fourthwall.com/). Alla kreditkortsbetalningar baserade i USA har en extra avgift på 2,9% + $0,30 för betalningsbehandling. Icke-USA kreditkort har en avgift på 3,9% + $0,30 för betalningsbehandling.
+- Genom [denna länk](https://bunq.me/pauseai) (Välj Sofort - de flesta banker och PayPal stöds)
