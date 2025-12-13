@@ -1,138 +1,133 @@
 ---
-title: Risks of artificial intelligence
-description: AI threatens our democracy, our technology, and our species.
+title: Risker med artificiell intelligens
+description: AI hotar vår demokrati, vår teknologi och vår art.
 ---
 
-AI is a powerful technology that is increasingly transforming our world.
-It comes with amazing potential, but also with a huge amount of serious risks.
-This is an attempt to include all which could be mitigated by a Pause.
+AI är en kraftfull teknik som i allt större utsträckning förändrar vår värld.
+Den kommer med fantastisk potential, men också med allvarliga risker, inklusive [existentiell katastrof](/xrisk).
 
-## Present dangers
+## Nuvarande faror
 
-### Fake news, polarization and threatening democracy
+### Falska nyheter, polarisering och hot mot demokratin
 
-Much of our society is based on trust. We trust that the money in our bank account is real, that the news we read is true, and that the people who post reviews online exist.
+Mycket av vårt samhälle är baserat på tillit. Vi litar på att pengarna på vårt bankkonto är verkliga, att nyheterna vi läser är sanna, och att personerna som postar recensioner online existerar.
 
-AI systems are exceptionally good at creating fake media, also called deepfakes.
-They can create fake videos, fake audio, fake text, and fake images.
-Creating fake media is not new, but AI makes it much cheaper and much more realistic.
-These capabilities are improving rapidly.
+AI-system är exceptionellt bra på att skapa falska medier.
+De kan skapa falska videor, falska ljud, falska texter och falska bilder.
+Dessa kapaciteter förbättras snabbt.
+För bara två år sedan skrattade vi åt de hemskt orealistiska Dall-E-bilderna, men nu har vi [deepfake-bilder som vinner fototävlingar](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
+Ett 10-sekunders ljudklipp eller en enda bild kan vara nog för att skapa en övertygande deepfake.
 
-Just two years ago, we laughed at the horribly unrealistic Dall-E images, but now we have [deepfake images winning photography contests](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
-An AI-generated image of an explosion caused [panic sells in Wall Street](https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter).
-A 10-second audio clip or a single picture can be enough to create a convincing deepfake.
-Perhaps even more dangerous than the deepfakes themselves, is how the existence of convincing deepfakes destroys trust.
-[A real image can be called AI-generated](https://www.axios.com/2024/08/13/trump-crowd-photo-ai-deepfake-truth), and people will believe it.
+Att skapa falska medier är inte nytt, men AI gör det mycket billigare och mycket mer realistiskt.
+En AI-genererad bild av en explosion orsakade [panikförsäljning på Wall Street](https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter).
+GPT-4 kan skriva på ett sätt som är omöjligt att skilja från människor, men i en mycket snabbare takt och till en bråkdel av kostnaden.
+Vi kanske snart ser sociala medier översvämmas med falska diskussioner och åsikter, och falska nyhetsartiklar som är omöjliga att skilja från riktiga.
 
-GPT-4 can write in a way that is indistinguishable from humans but at a much faster pace and a fraction of the cost.
-We might soon see social media be flooded with fake discussions and opinions, and fake news articles that are indistinguishable from real ones.
-Also called a "dead internet".
+Detta leder till polarisering mellan olika grupper av människor som tror på olika informationskällor och narrativ och, genom att konsumera förvrängda representationer av vad som händer, eskalerar sina skillnader tills de kulminerar i våldsamma och antidemokratiska svar.
 
-This leads to polarization between various groups of people who believe in different sources of information and narratives and, through consuming distorted representations of what's happening, escalate their differences until culminating in violent and anti-democratic responses.
+Ett stopp för frontlinjemodeller (vårt [förslag](/proposal)) skulle inte stoppa de modeller som används idag för att skapa falska medier, men det kan hjälpa till att förhindra framtida avancerade modeller.
+Dessutom skulle det lägga grunden för framtida reglering som syftar till att mildra falska medier och andra specifika problem orsakade av AI. För att inte tala om att öka allmänhetens uppmärksamhet och medvetenhet om dessa faror och bevis på att de kan åtgärdas.
 
-A halt on the frontier models (our [proposal](/proposal)) would not stop the models that are used nowadays to create fake media, but it might help to prevent future cutting-edge models.
-Also, it would lay the groundwork for future regulation aimed at mitigating fake media and any other specific problem caused by AI. Not to mention increasing public attention and awareness of these dangers and proof that they can be addressed.
+### Deepfakes och imitation
 
-### Deepfakes-powered harrasment and scams
+Falskt innehåll skapat med AI, även kallat deepfakes, kan inte bara stjäla kända personers identiteter och [skapa desinformation](https://time.com/6565446/biden-deepfake-audio/), utan de kan också imitera dig.
+Alla med foton, videor eller ljud av någon och tillräcklig kunskap kan skapa deepfakes av dem och använda dem för att begå bedrägerier, trakassera dem eller skapa sexuellt icke-konsensuellt material.
+Ungefär 96% av allt deepfake-innehåll är sexuellt material.
 
-Deepfakes cannot only steal famous people's identities and [create disinformation](https://time.com/6565446/biden-deepfake-audio/), but they can also impersonate you.
-Anyone with photos, videos, or audio of someone (and enough knowledge) can create deepfakes of them and use them to commit fraud, harass them, or create sexual non-consensual material.
-About [96% of all deepfake content is sexual material](https://www.technologyreview.com/2019/10/07/132735/deepfake-porn-deeptrace-legislation-california-election-disinformation/).
+Som avsnittet om falska nyheter säger, skulle falska medier inte helt förhindras av vårt förslag, men de kunde minskas till viss del.
+En inte så liten del när man tar i beaktande att AI-multifunktionssystem som chatbots har blivit väldigt populära, och vi skulle stoppa dem från att bli mer kapabla och populära, vilket kan inkludera system designade med färre filter och träningsbara med nya ansikten.
 
-You can find a compilation of AI incidents, which are mostly deepfake news, scams and harassment [here](https://incidentdatabase.ai/summaries/incidents/).
+### Fördomar och diskriminering
 
-As the section on fake news says, fake media wouldn't be prevented altogether by our proposal, but they could be reduced to a certain extent.
-A not so small extent when you take into account that AI multipurpose systems like chatbots have become really popular, and we would be stopping them from being more capable and popular, which could include systems designed with fewer filters and trainable with new faces.
+AI-system tränas på data, och mycket av den data vi har är på något sätt partisk.
+Detta innebär att AI-system kommer att ärva samhällets fördomar.
+Ett automatiserat rekryteringssystem på Amazon [ärvde en fördom mot kvinnor](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G).
+Svarta patienter var [mindre benägna att bli hänvisade till en medicinsk specialist](https://www.science.org/doi/full/10.1126/science.aax2342).
+Partiska system som används inom brottsbekämpning, såsom prediktiva polissystem, kan leda till orättvis måltavla mot specifika grupper.
+Generativa AI-modeller kopierar inte bara fördomarna från deras träningsdata, [de förstärker dem](https://www.bloomberg.com/graphics/2023-generative-ai-bias/).
+Dessa fördomar uppstår ofta utan att skaparna av AI-systemet är medvetna om dem.
 
-### Biases and discrimination
+<!-- ### Dataskydd
+-->
 
-AI systems are trained on data, and much of the data we have is in some way biased.
-This means that AI systems will inherit the biases of our society.
-An automated recruitment system at Amazon [inherited a bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G).
-Black patients were [less likely to be referred to a medical specialist](https://www.science.org/doi/full/10.1126/science.aax2342).
-Biased systems used in law enforcement, such as predictive policing algorithms, could lead to unfair targeting of specific groups.
-Generative AI models do not just copy the biases from their training data, [they amplify them](https://www.bloomberg.com/graphics/2023-generative-ai-bias/).
-These biases often appear without the creators of the AI system being aware of them.
+### Jobbförlust, ekonomisk ojämlikhet och instabilitet
 
-### Job loss, economic inequality and instability
+Under den industriella revolutionen förlorade många människor sina jobb till maskiner.
+Men nya (ofta bättre) jobb skapades, och ekonomin växte.
+Den här gången kan saker och ting vara annorlunda.
 
-During the industrial revolution, many people lost their jobs to machines.
-However, new (often better) jobs were created, and the economy grew.
-This time, things might be different.
+AI ersätter inte bara våra muskler som ångmaskinen gjorde, den ersätter våra hjärnor.
+Vanliga människor kanske inte har något kvar att erbjuda ekonomin.
+Bildgenereringsmodeller (som är kraftigt tränade på upphovsrättsskyddat material från professionella konstnärer) påverkar redan [den kreativa industrin](https://cointelegraph.com/news/artists-face-a-choice-with-ai-adapt-or-become-obsolete).
+Skribenter [strejkar](https://www.newscientist.com/article/2373382-why-use-of-ai-is-a-major-sticking-point-in-the-ongoing-writers-strike/).
+GPT-4 har [klarat advokatexamen](https://law.stanford.edu/2023/04/19/gpt-4-passes-the-bar-exam-what-that-means-for-artificial-intelligence-tools-in-the-legal-industry/), kan skriva utmärkt innehåll och kan skriva kod (återigen, delvis tränad på [upphovsrättsskyddat material](https://www.ischool.berkeley.edu/news/2023/new-research-prof-david-bamman-reveals-chatgpt-seems-be-trained-copyrighted-books)).
 
-AI does not just replace our muscles as the steam engine did, it replaces our brains.
-Regular humans may not have anything left to offer the economy.
-Image generation models (which are heavily trained on copyrighted material from professional artists) are already [impacting the creative industry](https://cointelegraph.com/news/artists-face-a-choice-with-ai-adapt-or-become-obsolete).
-Writers are [striking](https://www.newscientist.com/article/2373382-why-use-of-ai-is-a-major-sticking-point-in-the-ongoing-writers-strike/).
-GPT-4 has [passed the bar exam](https://law.stanford.edu/2023/04/19/gpt-4-passes-the-bar-exam-what-that-means-for-artificial-intelligence-tools-in-the-legal-industry/), can write excellent written content, and can write code (again, partially trained on [copyrighted materials](https://www.ischool.berkeley.edu/news/2023/new-research-prof-david-bamman-reveals-chatgpt-seems-be-trained-copyrighted-books)).
+De som äger dessa AI-system kommer att kunna kapitalisera på dem, men de som förlorar sina jobb till dem kommer inte att göra det.
+Det är svårt att förutsäga vilka jobb som kommer att ersättas först. De kan lämna dig arbetslös och utan inkomst oavsett hur mycket tid, pengar och energi du spenderat på att få den erfarenhet och kunskap som du har, och hur värdefulla de var för en stund sedan.
+Det sätt vi fördelar rikedom i vårt samhälle är inte förberett för detta.
 
-<!--Add news about AI caused layoffs as an example of the ones that will come. https://www.techopedia.com/tech-layoffs-predictions ?-->
+### Mental hälsa, beroende och avskildhet mellan människor
 
-The people who own these AI systems will be able to capitalize on them, but the people who lose their jobs to them will not.
-It is difficult to predict which jobs are going to be the ones replaced first.
-They could leave you unemployed and without an income no matter how much time, money and energy you spent on getting the experience and knowledge that you have, and how valuable they were a moment ago.
-The way we distribute wealth in our society is not prepared for this.
+Sociala medier, videospel och annan programvara har redan använt AI-system för att maximera sin vinst medan de utnyttjar våra primathjärnor, vilket skadar vår mentala hälsa i processen.
+Beroende av sociala medier, bland annat, isolerar oss från varandra, inte bara i politiska bubblor utan också i kulturella och sociala enmansbubblor, vilket gör oss ensammare.
+De är det första beviset på de oavsiktliga och oväntade globala konsekvenser som dessa teknologier kan medföra och hur komplicerat det kan vara att anpassa AI-system med "mänskliga värderingar".
 
-Policy measures like Universal Basic Income could prevent the worst of the economic consequences, but it's not clear if they will be implemented in time.
-Once our jobs are replaced, we could be left without bargaining power to ask for social nets.
+Om dagens chatbots fortsätter att bli bättre, kan det bli ganska vanligt att bli beroende av dem och ersätta hela relationer (vare sig romantiska, sexuella eller platoniska) med dem.
+Även om dessa appar är lätta att komma åt, kan de forma förståelsen, personligheten och världsbilden hos barn som kan föredra att prata med AI istället för familj och vänner.
+En paus i de största modellerna kan förhindra dem från att bli multifunktionella chatbots som passar våra behov perfekt utan att människor förstår de långsiktiga konsekvenserna av dem.
 
-And even if we manage to properly navigate the problems surrounding inequality and instability, we may end up in a world where our sense of purpose is lost.
-Many artists are feeling this already, as they see their work being replaced by AI.
-Soon, it could be all of us who feel this way.
+### Maktkoncentration, krig och kapplöpning mot avgrunden
 
-### Mental health, addiction and disconnection between people
+Beroendet av produkter och tjänster som lär sig av personliga data lämnar oss som maktlösa separerade individer vare sig det är avsiktligt eller inte.
+Och det spelar på en ond cirkel med koncentrationen av ekonomisk makt och intelligens hos de företag som skapar dem.
 
-Social media companies have been using AI systems to maximise their profits while taking advantage of our primate minds for some time already, often damaging our mental health in the process.
-But having conversations with today’s increasingly capable AIs poses unexpected and dangerous risks our mental health.
+Om denna ekonomiska och teknologiska ojämlikhet härstammar från en handfull offentliga och privata enheter som producerar flera enkeländamåls-AI eller några multifunktions-AI, kan det leda till en kort maktkoncentration som sannolikt resulterar i en katastrof för alla.
+Maktsamlingen av den berättelsen har och kommer att fortsätta att incitamentera fler aktörer
 
-Companies instruct their AI chatbots to agree with their users, encourage their ideas, and keep the conversation going.
-This can backfire horribly for users in mental health distress by causing people to develop “[AI psychosis](https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis)”.
-In these cases, AIs mirror the user’s delusional thinking, paranoia, or despair back to them. In extreme situations, this has caused the person talking with the AI to [commit suicide](https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide).
-More than a million users of ChatGPT are have signs of mental health distress.
+att gå med i kapplöpningen till botten och påskynda utvecklingen av större AI-system.
+Detta introducerar fler felpunkter och förringar de tillhörande riskerna genom att stödja idén att de kan hanteras unilateralt, av ett företag eller en regering.
 
-Another risk area is AIs being used for intimate and explicit conversations. AI chatbots offering users a romantic relationship have seen huge growth over the last year, with more than 3 billion search results for ‘AI girlfriend’ on Google.
-These AI relationship apps are [shown to be addictive](https://onlinelibrary.wiley.com/doi/10.1002/mar.21899), especially to “lonely vulnerable people”.
-The companies controlling these apps make more money by designing their AIs as to be addictive as possible, and can gain a tremendous amount of power by shaping the behavior and opinions of chatbots express to [manipulate their users](https://arxiv.org/abs/2508.19258) through romantic connection.
+Ett sådant scenario skulle inte bara avmaktiga varje annan person och nation i världen, utan också katalysera globala makter att gå i konflikt.
+Så det är avgörande att agera så snart som möjligt, innan tävlingsdynamiken sträcker sig längre, innan de redan mäktigaste regeringarna och företagen konsoliderar sina positioner och innan ett krig utlöses som svar.
+Vi behöver internationellt samarbete eftersom det enda vinnande draget i detta konstiga spel är att inte spela, utan att pausa.
 
-We need time to better understand AIs to build in proper safeguards to protect our mental health, especially for vulnerable users.
-Pausing the development of powerful AI systems would give us time to research how AI conversations can be made safer when talking about difficult or sensitive subjects.
-We also need regulation to prevent companies from releasing AIs that pose as friendly companions, but have a hidden dark side that worsens our mental health and puts vulnerable people at risk.
+### Auktoritära regeringar
+Auktoritära och totalitära regeringar kan också använda AI-teknologier för att utöva makt över sina territorier och befolkningar.
+De kan kontrollera kommunikationskanaler eller upprätthålla sociala kredit- och massövervakningssystem som säkerställer att de behåller sin makt samtidigt som de kränker mänskliga rättigheter.
 
-### Automated investigation (loss of privacy)
+### Autonoma vapen
+Autonoma vapen
+Företag säljer redan AI-drivna vapen till regeringar.
+Lanius bygger flygande självmordsdrönare som autonomt identifierar fiender.
+Palantirs AIP-system använder stora språkmodeller för att analysera slagfältsdata och komma med optimala strategier.
 
-We leave a lot of traces on the web.
-Connecting the dots is hard and time-consuming, but AI can now make this way cheaper.
-Large language models can now autonomously search the web, and are now good enough to analyze large amounts of data and find interesting details.
-This can be used to find out information that would otherwise be very costly to find out.
+Nationer och vapenföretag har insett att AI kommer att ha en enorm inverkan på att överträffa sina fiender.
+Vi har gått in i en ny kapprustning.
+Denna dynamik belönar att skynda på och skära hörn.
 
-- Find information on where an individual is likely to be at a certain time. This can be used to track down dissidents or plan assassinations.
-- Link anonymous accounts on the web to real-life identities. This can be used to find out who is leaking information.
+Just nu har vi fortfarande människor i loopen för dessa vapen.
+Men när kapaciteten hos dessa AI-system förbättras kommer det att bli mer och mer tryck att ge maskinerna makten att fatta beslut.
+När vi delegerar kontrollen över vapen till AI, kan fel och buggar få fruktansvärda konsekvenser.
+Den hastighet med vilken AI kan bearbeta information och fatta beslut kan orsaka att konflikter eskalerar på några minuter.
+En nyligen publicerad artikel konstaterar att "modeller tenderar att utveckla kapprustningsdynamik, vilket leder till större konflikter och i sällsynta fall till och med till användning av kärnvapen".
 
-In September 2024, a group of students [built an app](https://x.com/AnhPhuNguyen1/status/1840786336992682409) that shows information about strangers likes names, relatives and other personal data in augmented reality by using facial recognition and LLMs.
+Läs mer på stopkillerrobots.org
 
-### Environmental risks
+## Nära framtida faror
+### Biologiska vapen
+AI kan göra kunskap mer tillgänglig, vilket också inkluderar kunskap om hur man skapar biologiska vapen. Denna artikel visar hur GPT-4 kan hjälpa icke-vetenskapliga studenter att skapa en pandemi-patogen:
 
-Environmental harms are starting to be significant, and the largest AI companies are planning to greatly increase their energy consumption. You can read about how AI will affect the environment negatively [here](/environmental).
+På en timme föreslog chatbotarna fyra potentiella pandemi-patogener, förklarade hur de kan genereras från syntetiskt DNA med hjälp av omvänd genetik, försåg namnen på DNA-syntesföretag som troligen inte screenar beställningar, identifierade detaljerade protokoll och hur man felsöker dem, och rekommenderade att någon som saknar färdigheterna att utföra omvänd genetik engagerar en kärnanläggning eller ett kontraktsforskningsföretag.
 
-### Autonomous weapons
+Denna typ av kunskap har aldrig varit så tillgänglig, och vi har inte säkerhetsåtgärderna på plats för att hantera de potentiella konsekvenserna.
 
-Companies are already selling AI-powered weapons to governments.
-Lanius builds [flying suicide drones](https://www.youtube.com/watch?v=G7yIzY1BxuI) that autonomously identify foes.
-Palantir's [AIP system](https://www.youtube.com/watch?v=XEM5qz__HOU) uses large language models to analyze battlefield data and come up with optimal strategies.
+Dessutom kan vissa AI-modeller användas för att designa helt nya farliga patogener.
+En modell kallad MegaSyn designade 40 000 nya kemiska vapen/toxiska molekyler på en timme.
+Den revolutionära AlphaFold-modellen kan förutsäga strukturen av proteiner, vilket också är en dual-use technology.
+Att förutsäga proteinstrukturer kan användas för att "upptäcka sjukdomsframkallande mutationer med hjälp av en individs genomsekvens".
+Forskare skapar nu till och med helt autonoma kemiska laboratorier, där AI-system själva kan syntetisera nya kemikalier.
 
-Nations and weapon companies have realized that AI will have a huge impact on besting their enemies.
-We've entered a new arms race.
-This dynamic rewards speeding up and cutting corners.
-
-Right now, we still have humans in the loop for these weapons.
-But as the capabilities of these AI systems improve, there will be more and more pressure to give the machines the power to decide.
-When we delegate control of weapons to AI, errors and bugs could have horrible consequences.
-The speed at which AI can process information and make decisions may cause conflicts to escalate in minutes.
-A [recent paper](https://arxiv.org/pdf/2401.03408.pdf) concludes that "models tend to develop arms-race dynamics, leading to greater conflict, and in rare cases, even to the deployment of nuclear weapons".
-
-Read more at [stopkillerrobots.org](https://www.stopkillerrobots.org/military-and-killer-robots/)
-
-## Near future dangers
+Den grundläggande faran är att kostnaden för att designa och använda biologiska vapen sänks med magnituder på grund av AI.
 
 ### Power accumulation and tyranny
 
@@ -143,13 +138,18 @@ In the hands of an authoritarian government, this could be used to suppress diss
 
 <!--Dystopian social credit systems based on mass surveillance + people and action recognition could be created with today's AI so a pause wouldn't help and we shouldn't write about it-->
 
-### Biological weapons
+### Datorvirus och Cybersäkerhet 
+Praktiskt taget allt vi gör idag är på något sätt beroende av datorer.
+Vi betalar för våra dagligvaror, planerar våra dagar, kontaktar våra nära och kära och till och med kör våra bilar med datorer.
 
-AI can make knowledge more accessible, which also includes knowledge about how to create biological weapons. [This paper](https://arxiv.org/abs/2306.03809) shows how GPT-4 can help non-scientist students to create a pandemic pathogen:
+Moderna AI-system kan analysera och skriva programvara.
+De kan hitta sårbarheter i programvara, och de kan användas för att utnyttja dem.
+När AI-kapaciteten växer kommer också kapaciteten för de utnyttjanden de kan skapa att växa.
 
-> In one hour, the chatbots suggested four potential pandemic pathogens, explained how they can be generated from synthetic DNA using reverse genetics, supplied the names of DNA synthesis companies unlikely to screen orders, identified detailed protocols and how to troubleshoot them, and recommended that anyone lacking the skills to perform reverse genetics engage a core facility or contract research organization.
+Mycket potenta datorvirus har alltid varit extremt svåra att skapa, men AI kan förändra detta.
+Istället för att behöva anlita ett team av skickliga säkerhetsexperter/hackare för att hitta zero-day-sårbarheter, kan du bara använda en mycket billigare AI för att göra det åt dig. Naturligtvis kan AI också hjälpa till med cyberförsvar, och det är oklart på vilken sida fördelen ligger.
 
-This type of knowledge has never been so accessible, and we do not have the safeguards in place to deal with the potential consequences.
+[Läs mer om AI och cybersäkerhetsrisker](/cybersecurity-risks)
 
 Additionally, some AI models can be used to design completely new hazardous pathogens.
 A model called MegaSyn designed [40,000 new chemical weapons / toxic molecules in one hour](https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx).
@@ -172,31 +172,34 @@ Highly potent computer viruses have always been extremely hard to create, but AI
 Instead of having to hire a team of skilled security experts/hackers to find zero-day exploits, you could just use a far cheaper AI to do it for you. Of course, AI could also help with cyberdefense, and it is unclear on which side the advantage lies.
 
 [Read more about AI and cybersecurity risks](/cybersecurity-risks)
+### Existentiell risk
+Existentiell risk
+Många AI-forskare varnar för att AI kan leda till mänsklighetens slut.
 
-### Existential Risk
+Mycket intelligenta saker är mycket kraftfulla. Om vi bygger en maskin som är mycket mer intelligent än människor, måste vi vara säkra på att den vill samma sak som vi vill. Detta visar sig dock vara mycket svårt. Detta kallas anpassningsproblemet. Om vi misslyckas med att lösa det i tid, kan vi sluta med superintelligenta maskiner som inte bryr sig om vårt välbefinnande. Vi skulle introducera en ny art på planeten som kan överlista oss och överträffa oss.
 
-Many AI researchers are warning that AI could lead to the end of humanity.
+[Läs mer om x-risk](/xrisk)
 
-Very intelligent things are very powerful.
-If we build a machine that is far more intelligent than humans, we need to be sure that it wants the same thing as we want.
-However, this turns out to be very difficult.
-This is called the _alignment problem_.
-If we fail to solve it in time, we may end up with superintelligent machines that do not care about our well-being.
-We'd be introducing a new species to the planet that could outsmart us and outcompete us.
+### Mänsklig maktlöshet
+Även om vi lyckas skapa endast AI-system som vi kan kontrollera individuellt, kan vi förlora vår makt att fatta viktiga beslut stegvis varje gång ett system implementeras inom institutioner eller blir populärt i vardagen. Dessa system skulle ha mer input från andra system än från människor, och om vi inte kan samordna oss tillräckligt snabbt, eller saknar nödvändig kunskap om hur dessa system fungerar, kan vi sluta utan kontroll över vår framtid.
 
-[Read more about x-risk](/xrisk)
+Det skulle vara en civilisation där varje system optimerar för olika mål, det finns ingen klar riktning för vart allt är på väg, och det finns inget sätt att ändra det. Den tekniska kunskapen som krävs för att modifiera dessa system kan saknas från början eller gå förlorad över tid, när vi blir mer och mer beroende av teknik, och tekniken blir mer komplex.
 
-### Human disempowerment
+Systemen kan uppnå sina mål, men dessa mål kanske inte helt inkapslar de värderingar de förväntades ha. Detta problem händer redan idag till viss del, men AI kan avsevärt förstärka det.
 
-Even if we manage to create only AI systems that we can control individually, we could lose our power to make important decisions incrementally each time one becomes incorporated to institutions or everyday life.
-Those process would end up having more input from AI systems than from humans, and, if we cannot coordinate quickly enough, or we lack crucial knowledge about the functioning of the systems, we could end up without control over our future.
+Även om vi lyckas skapa endast AI-system som vi kan kontrollera individuellt, skulle vi kunna förlora vår förmåga att fatta viktiga beslut stegvis varje gång ett system integreras i institutioner eller vardagen.
+Dessa processer skulle i slutändan få mer input från AI-system än från människor, och om vi inte kan samordna oss tillräckligt snabbt, eller om vi saknar avgörande kunskap om systemens funktion, skulle vi kunna hamna utan kontroll över vår framtid.
 
-It would be a civilization in which each system is optimizing for different objectives, there is not a clear direction for where everything is heading, and there is no way of changing it.
-The technical knowledge required to modify these systems could be lacking in the first place or lost over time, as we become more and more dependent on technology, and the technology becomes more complex.
+### Digital medvetenhet
+När AI fortsätter att utvecklas kan framtida system bli otroligt sofistikerade och replikera neurala strukturer och funktioner som liknar den mänskliga hjärnan. Denna ökade komplexitet kan leda till framväxande egenskaper som subjektivitet och/eller medvetande, så att dessa AI skulle förtjäna moraliska överväganden och behandlas väl. De skulle vara som "digitala människor". Problemet är att, med tanke på vår nuvarande brist på kunskap om medvetande och neurala nätverks natur, kommer vi inte att kunna avgöra om vissa AI skulle ha någon typ av upplevelse och vad kvaliteten på dessa upplevelser skulle bero på. Om AI fortsätter att produceras endast med deras kapacitet i åtanke, genom en process vi inte helt förstår, kommer människor fortsätta att använda dem som verktyg utan att förstå vad deras önskningar kan vara, och de kan faktiskt förslava digitala människor.
 
-The systems may achieve their goals, but those goals might not entirely encapsulate the values they were expected to. This problem is, to a certain extent, already happening today, but AIs could significantly amplify it.
+Risker med inlåst lidande
+Det är möjligt att när automatisering på högre nivåer börjar ske, oavsett om det finns en eller flera kraftfulla AI, skulle värderingarna hos dessa system inte kunna ändras, och automatiseringen skulle fortsätta till universums slut, genom alla nåbara galaxer. De värsta scenarierna som dessa AI kan skapa skulle inte vara mänsklig utrotning, utan oundvikliga dystopier som skulle sträcka sig genom hela den tidsrymden.
 
-### Digital sentience
+Möjliga inlåsta dystopier med mycket lidande kallas S-risker och inkluderar världar där kännande varelser är förslavade och tvingas göra hemska saker. Dessa varelser kan vara människor, djur, digitala människor eller någon annan utomjordisk art som systemet kan hitta i kosmos. Med tanke på hur svårt vi tror att det är att helt lösa anpassningsproblemet, hur dåligt vi människor ibland behandlar varandra, hur illa vi behandlar de flesta djur, och hur vi behandlar nuvarande AI, kanske en framtid som denna inte är så osannolik som vi skulle vilja.
+
+# Vad kan vi göra?
+För alla problem som diskuterats ovan ökar risken när AI-förmågor förbättras. Detta innebär att det säkraste att göra nu är att sakta ner. Vi måste pausa utvecklingen av mer kraftfulla AI-system tills vi har listat ut hur vi ska hantera riskerna.
 
 As AI continues to advance, future systems may become incredibly sophisticated, replicating neural structures and functions that are more akin to the human brain.
 This increased complexity might lead to emergent properties like AI subjectivity and/or consciousness, which would make them deserving of moral considerations.
@@ -204,17 +207,16 @@ This increased complexity might lead to emergent properties like AI subjectivity
 The problem is that, given our present lack of knowledge about consciousness and the nature of neural networks, we won't have a way to determine whether some AIs would have any type of experience and what the quality of those experiences would depend on.
 If the AIs continue to be produced with only their capabilities in mind, through a process we don't fully understand, people will keep using them as tools ignoring what their desires could be, and that they could be actually enslaving "digital people".
 
-### Suffering risks
+### S-risker
 
-It's not only that value lock-in could make us fail to achieve the best kind of worlds, but it could cause us to end up in dystopias worse than extinction that could extend through all spacetime.
+Det är inte bara så att värdeinlåsning kan göra att vi misslyckas med att uppnå den bästa sortens världar, utan det kan också leda till att vi hamnar i dystopier värre än utrotning som kan sträcka sig över all rumtid.
 
-Possible locked-in dystopias with lots of suffering are called _S-risks_ and include worlds in which sentient beings are enslaved and forced to do horrible things.
-Those beings could be humans, animals, digital people or any other alien species that the AI could find in the cosmos. Given how difficult we think solving alignment completely is, how bad we humans treat each other sometimes, how bad we treat most animals, and how we treat present AIs, a future like this doesn't seem as unlikely as we'd hope.
+Möjliga inlåsta dystopier med mycket lidande kallas _S-risker_(från engelskans suffering risk) och inkluderar världar där kännande varelser är förslavade och tvingade att göra hemska saker.
+Dessa varelser kan vara människor, djur, digitala människor eller någon annan främmande art som AI:n kan hitta i kosmos. Med tanke på hur svårt vi tycker att det är att lösa allians helt och hållet, hur illa vi människor behandlar varandra ibland, hur illa vi behandlar de flesta djur och hur vi behandlar nuvarande AI:er, verkar en framtid som denna inte så osannolik som vi hoppas.
 
-## What can we do?
+## Vad kan vi göra?
 
-For **all** the problems discussed above, the risk increases as AI capabilities improve.
-This means that the safest thing to do now is to **slow down**.
-We need to pause the development of more powerful AI systems until we have figured out how to deal with the risks.
+För **alla** problemen som diskuterats ovan ökar risken i takt med att AI:s kapacitet förbättras.
+Det betyder att det säkraste att göra nu är att **sakta ner**. Vi måste pausa utvecklingen av kraftfullare AI-system tills vi har listat ut hur vi ska hantera riskerna.
 
-See [our proposal](/proposal) for more details.
+Se vårt [förslag](/proposal) för mer detaljer.

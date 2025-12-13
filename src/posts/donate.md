@@ -1,57 +1,59 @@
 ---
-title: Donate to PauseAI
-description: With your financial support we can have a bigger impact.
+title: Donera till PauseAI
+description: Med ditt ekonomiska stöd kan vi få en större påverkan.
 ---
 
 <script>
     import Donate from '$lib/components/Donate.svelte'
 </script>
 
-We started PauseAI as a group of volunteers, who work on it in their free time.
-Since February 2024, PauseAI is a [registered non-profit foundation](/legal).
+Vi startade PauseAI som en grupp volontärer som arbetar med det på sin fritid.
+Sedan februari 2024 är PauseAI en [registrerad ideell stiftelse](/legal).
 
 <Donate />
 
-## How we use your donations
+<div style="display: flex; justify-content: center;"><a href="https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE"><img src="/PayPal.svg" alt="Donera nu" width="256" /></a></div>
 
-- **Community projects**: our [microgrants](/microgrants) program supports various small-scale projects.
-- **Volunteer stipends**: volunteers can apply for a [stipend](/volunteer-stipends), which helps our community have a local impact and grow organically.
-- **Funding for local & [national](/national-groups) chapters**: we help PauseAI communities
-- **People**: build a stronger community, work on projects, organize protests, improve the website, etc.
-- **Events**: renting a location, catering, travel costs.
-- **Software**: email, website, etc.
-- **Campaigns**: online advertising, materials
-- **Legal & financial**: setting up the foundation (notary costs), bookkeeping.
+## Hur vi använder dina donationer
 
-## What have we already achieved
+- **Samhällsprojekt**: vårt [mikrobidrag](/microgrants)-program stöder olika småskaliga projekt.
+- **Volontärstipendier**: volontärer kan ansöka om ett [stipendium](/volunteer-stipends), vilket hjälper vårt samhälle att ha en lokal inverkan och växa organiskt.
+- **Finansiering för lokala och [nationella](/national-groups) avdelningar**: vi hjälper PauseAI-samhällen
+- **Människor**: bygga en starkare gemenskap, arbeta med projekt, organisera protester, förbättra webbplatsen etc.
+- **Evenemang**: hyra av lokal, catering, resekostnader.
+- **Programvara**: e-post, webbplats etc.
+- **Kampanjer**: onlineannonsering, material
+- **Juridik och ekonomi**: starta stiftelsen (notarius publicus-kostnader), bokföring.
 
-- 1000+ people who have [joined](/join) PauseAI, many of whom are actively working on various projects
-- 100+ projects in our Discord server (websites, workshops, videos, responses to government consultations, etc.)
-- Organized 15+ [protests](/protests) in 7 countries.
-- 100+ other types of [events](/events) (lobby workshops, flyering sessions, action meetings, etc.)
-- 30+ [Media appearances](/press) on major news outlets, podcasts, documentaries, TV and more.
-- Many meetings with politicians and other stakeholders.
+## Vad vi redan har uppnått
+
+- 1000+ personer som har [gått med](/join) PauseAI, varav många arbetar aktivt med olika projekt
+- 100+ projekt på vår Discord-server (webbplatser, workshops, videor, svar på regeringskonsultationer, etc.)
+- Organiserat 15+ [protester](/protests) i 7 länder.
+- 100+ andra typer av [evenemang](/events) (lobbyworkshops, flyersessioner, aktionsmöten, etc.)
+- 30+ [Medieframträdanden](/press) på stora nyhetskanaler, poddsändningar, dokumentärer, TV med mera.
+- Många möten med politiker och andra intressenter.
 
 ## Who is funding PauseAI
 
-See our [funding page](/funding) for more details on who donated how much money.
+Se vår [finansieringssida](/funding) för mer information om vem som donerade hur mycket pengar.
 
-## What we're planning to do
+## Vad vi planerar att göra
 
-See our [roadmap](/roadmap) for more details.
+Se vår [roadmap](/roadmap) för mer detaljer.
 
-## How to donate to PauseAI
+## Hur du donerar till PauseAI
 
-- By (international) bank transfer. This is **probably the cheapest way** to transfer money to us.
+- Via (internationell) banköverföring. Detta är **förmodligen det billigaste sättet** att överföra pengar till oss.
   - IBAN: NL31BUNQ2109903155
   - BIC/SWIFT: BUNQNL2AXXX
   - Name: Stichting PauseAI
-  - Bank Address: Basisweg 32, Amsterdam, the Netherlands
+  - Bank Address: Basisweg 32, Amsterdam, Nederländerna
 
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Supports recurring donations. [Transaction fees](https://www.paypal.com/webapps/mpp/merchant-fees) apply, can go up to 5%.
-- Through our [merchandise store](https://pauseai-shop.fourthwall.com/). All US-based credit card transactions have an added 2.9% + $0.30 payment processing fee. Non-US credit cards have a 3.9% +$0.30 payment processing fee.
-- Through [this link](https://bunq.me/pauseai) (Select Sofort - most banks and PayPal are supported)
-- Through Crypto:
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Stöder återkommande donationer. [Transaktions kostnader](https://www.paypal.com/webapps/mpp/merchant-fees) kan tillämpas, och kan gå upp till 5%.
+- Genom vår [varubutik](https://pauseai-shop.fourthwall.com/). Kreditkort utanför USA har en avgift på 3,9 % + 0,30 USD. Alla kreditkortstransaktioner i USA har en extra avgift på 2,9 % + 0,30 USD.
+- Genom [denna länk](https://bunq.me/pauseai) (Välj Sofort - de flesta banker och PayPal stöds)
+- Genom kryptovaluta:
   - Solana `9isSiDuKRkpiui6LzHyVoFiJ3LuV5LVpsdpH2YzD13dy`
   - Ethereum `0x01c9646d376408cD77599d1a0860eC38E6928F1b`
   - Base `0x01c9646d376408cD77599d1a0860eC38E6928F1b`
