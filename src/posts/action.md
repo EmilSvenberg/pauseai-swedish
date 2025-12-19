@@ -26,6 +26,7 @@ Du är nu en av dem.
 - **Dela** om AI-risker på sociala medier. Denna webbplats kan vara en bra start.
 - **Skapa** [artiklar](/learn#articles), [videor](/learn#videos) eller [memer](https://twitter.com/AISafetyMemes). Samarbeta med andra på [Discord-servern](https://discord.gg/2XXWXvErfA) (i #projects-kanalen).
 - **Skriv under petition**:
+  - [Ta riskerna med ai på allvar!](https://www.mittskifte.org/petitions/ta-riskerna-med-ai-pa-allvar?just_launched=true)
   - [Internationellt AI-fördrag](https://aitreaty.org)
   - [Förbjud superintelligens](https://chng.it/Djjfj2Gmpk)
   - [Kräv ansvarsfull AI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df)
