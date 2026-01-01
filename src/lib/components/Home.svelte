@@ -49,8 +49,6 @@
 		<span slot="title">{@html m.home_action_title()}</span>
 		{m.home_action_content()}
 	</Block>
-
-	<MailListSweden />
 </section>
 
 <style>
