@@ -1,26 +1,27 @@
 <script lang="ts">
-	const selectableTexts = [
-		{
-			selected: false,
-			buttonText: 'Existentiell risk',
-			text: 'Hälften av AI forskarna tror att risken för att artificiell superintelligens skulle innebära slutet för mänskligheten är 10% eller högre. Nämnvärda exempel är 2024 års nobelpristagare i fysik Geoffery Hinton och ai forskaren Yoshua Bengio, båda har varit med och utvecklat den tekniken som dagens ai bygger på. Denna varning bör tas på allvar.'
-		},
-		{
-			selected: false,
-			buttonText: 'Icke existentiella risker',
-			text: 'Oreglerad AI underlättar för illasinnade aktörer att osamka stor skada. Exempelvis har nyligen OpenAi (företaget bakom ChatGPT) varnat för att deras ai kan förenkla skapandet av biologiska vapen, något som även Nuclear Threat Initiative har varnat för. Nyligen användes även anthropic’s ai Claude för att genomföra cyberattacker mot 30 amerikanska företag.'
-		},
-		{
-			selected: false,
-			buttonText: 'Jobb',
-			text: 'Oreglerad AI riskerar att skapa ökade klyftor i samhället. Det finns redan exempel på hur människor ersätts av ai-lösningar för att effektivisera inom vissa yrken, ett aktuellt exempel är HR här i Sverige. Flera framstående personer i näringslivet varnar för att ai kommer ersätta många av dagens jobb, bland annat Bill Gates och Sebastian Siemiatkowski (VD klarna). Med tydliga regler kan jobb som ersätts av ai eventuellt vara något positivt.'
-		},
-		{
-			selected: false,
-			buttonText: 'Hot mot demokratin',
-			text: 'Oreglerad AI riskerar att underminera demokratin. AI assistenter vilseleder i nästan hälften av nyhetshändelserna. Dessutom har utvecklingen för verktyg som kan skapa så kallade deepfakes gått i en rasande takt och det är numera svårt att avgöra om vissa videoklipp och bilder är äkta eller falska.'
-		}
-	]
+	let selectableTexts = [
+			{
+				selected: false,
+				buttonText: 'Existentiell risk',
+				text: 'Hälften av AI forskarna tror att risken för att artificiell superintelligens skulle innebära slutet för mänskligheten är 10% eller högre. Nämnvärda exempel är 2024 års nobelpristagare i fysik Geoffery Hinton och ai forskaren Yoshua Bengio, båda har varit med och utvecklat den tekniken som dagens ai bygger på. Denna varning bör tas på allvar.'
+			},
+			{
+				selected: false,
+				buttonText: 'Icke existentiella risker',
+				text: 'Oreglerad AI underlättar för illasinnade aktörer att osamka stor skada. Exempelvis har nyligen OpenAi (företaget bakom ChatGPT) varnat för att deras ai kan förenkla skapandet av biologiska vapen, något som även Nuclear Threat Initiative har varnat för. Nyligen användes även anthropic’s ai Claude för att genomföra cyberattacker mot 30 amerikanska företag.'
+			},
+			{
+				selected: false,
+				buttonText: 'Jobb',
+				text: 'Oreglerad AI riskerar att skapa ökade klyftor i samhället. Det finns redan exempel på hur människor ersätts av ai-lösningar för att effektivisera inom vissa yrken, ett aktuellt exempel är HR här i Sverige. Flera framstående personer i näringslivet varnar för att ai kommer ersätta många av dagens jobb, bland annat Bill Gates och Sebastian Siemiatkowski (VD klarna). Med tydliga regler kan jobb som ersätts av ai eventuellt vara något positivt.'
+			},
+			{
+				selected: false,
+				buttonText: 'Hot mot demokratin',
+				text: 'Oreglerad AI riskerar att underminera demokratin. AI assistenter vilseleder i nästan hälften av nyhetshändelserna. Dessutom har utvecklingen för verktyg som kan skapa så kallade deepfakes gått i en rasande takt och det är numera svårt att avgöra om vissa videoklipp och bilder är äkta eller falska.'
+			}
+		],
+		copied = false
 
 	const copyEmailToClipboard = () => {
 		const emailBox = document.getElementById('email-box')
@@ -29,15 +30,16 @@
 		if (!emailToCopy) return
 
 		navigator.clipboard.writeText(emailToCopy)
+		copied = true
 	}
 </script>
 
 <div class="container">
-	<button on:click={copyEmailToClipboard}>Kopiera mejladress</button>
-	<div id="copy-message">Mejladressen har kopierats!</div>
+	<!-- <button on:click={copyEmailToClipboard}>Kopiera mejladress</button> -->
+	<!-- <div id="copy-message">Mejladressen har kopierats!</div> -->
 
 	<!-- Knappar för att lägga till text i mejlet -->
-	<span style="margin-left: 10px;">Vad oroar dig mest med AI?</span>
+	<span>Vad oroar dig mest med AI?</span>
 	<div class="button-container">
 		{#each selectableTexts as selectable}
 			<button
@@ -62,14 +64,15 @@
 				</div>
 			{/each}
 		</div>
-		<button on:click={copyEmailToClipboard}>Kopiera mejl</button>
-		<div id="email-copy-message">Mejlet har kopierats!</div>
+		<button style="margin-top:20px;" on:click={copyEmailToClipboard}>Kopiera mejl</button>
+		{#if copied}
+			<div id="email-copy-message">Mejlet har kopierats!</div>
+		{/if}
 	</div>
 </div>
 
 <style>
 	.container {
-		font-family: Arial, sans-serif;
 		max-width: 1000px;
 		margin: 20px auto;
 		padding: 20px;
@@ -77,23 +80,9 @@
 		border-radius: 5px;
 	}
 
-	.text-box {
-		display: inline-block;
-		padding: 10px;
-		border: 1px solid #ccc;
-		border-radius: 4px;
-		min-height: 20px;
-		min-width: 250px;
-		background-color: #f9f9f9;
-		vertical-align: top;
-		margin-right: 10px;
-		margin-bottom: 10px;
-	}
-
 	button {
 		padding: 10px 15px;
-		background-color: #ff9800; /* Orange */
-		color: black; /* Svart text */
+		background-color: var(--brand);
 		border: none;
 		border-radius: 4px;
 		cursor: pointer;
@@ -109,12 +98,10 @@
 		background-color: #f57c00; /* Mörkare orange för highlight */
 	}
 
-	#copy-message,
 	#email-copy-message {
 		margin-top: 10px;
-		color: #ff9800; /* Orange för meddelandet */
+		color: var(--brand);
 		font-size: 14px;
-		display: none;
 	}
 
 	.email-box {
@@ -127,7 +114,7 @@
 	}
 
 	.button-container {
-		margin-top: 10px;
+		margin-top: 20px;
 		margin-bottom: 20px;
 	}
 
@@ -136,6 +123,6 @@
 	}
 
 	.selected-mail {
-		background-color: #f57c00 !important; /* Mörkare orange för highlight */
+		filter: brightness(90%);
 	}
 </style>
