@@ -51,19 +51,24 @@
 	</div>
 
 	<!-- Ny sektion för förskrivet mejl -->
-	<div style="margin-top: 20px;">
+	<div>
 		<h3>Förskrivet mejl:</h3>
 		<div id="email-box" class="email-box">
-			{'Hej, Mitt namn är _NAMN_ och jag skickar detta mejl till dig eftersom jag tycker det är allt för lite fokus på säkerhet i AI debatten vilket gör mig orolig för hur vi säkerställer att AI utvecklingen	blir både gynnsam men även säker för oss i Sverige. Över hälften av svenskarna oroar sig över den	snabba ai utvecklingen och tror att ai medför större risk än möjligheter. Bristen på tydliga regelverk	och information för hur ert parti vill hantera förändringar som AI medför gör mig orolig för framtiden	och hur ai utvecklingen kan påverka min familj. Med vänliga hälsningar, [Ditt namn och adress]'}
+			{`Hej, Mitt namn är _NAMN_ och jag skickar detta mejl till dig eftersom jag tycker det är allt för lite fokus på säkerhet i AI debatten vilket gör mig orolig för hur vi säkerställer att AI utvecklingen	blir både gynnsam men även säker för oss i Sverige. 
+
+        Över hälften av svenskarna oroar sig över den	snabba ai utvecklingen och tror att ai medför större risk än möjligheter. Bristen på tydliga regelverk	och information för hur ert parti vill hantera förändringar som AI medför gör mig orolig för framtiden	och hur ai utvecklingen kan påverka min familj. 
+      `}
 
 			{#each selectableTexts as selectable}
-				<div class="selectable-mail-section">
-					{#if selectable.selected}
+				{#if selectable.selected}
+					<div class="selectable-mail-section">
 						{selectable.text}
-					{/if}
-				</div>
+					</div>
+				{/if}
 			{/each}
+			Med vänliga hälsningar, [Ditt namn och adress]
 		</div>
+
 		<button style="margin-top:20px;" on:click={copyEmailToClipboard}>Kopiera mejl</button>
 		{#if copied}
 			<div id="email-copy-message">Mejlet har kopierats!</div>
@@ -115,7 +120,6 @@
 
 	.button-container {
 		margin-top: 20px;
-		margin-bottom: 20px;
 	}
 
 	.selectable-mail-section {
