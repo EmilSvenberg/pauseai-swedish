@@ -2,17 +2,17 @@
 	const selectableTexts = [
 		{
 			selected: false,
-			buttonText: 'Hot mot demokratin',
+			buttonText: 'Existentiell risk',
 			text: 'Hälften av AI forskarna tror att risken för att artificiell superintelligens skulle innebära slutet för mänskligheten är 10% eller högre. Nämnvärda exempel är 2024 års nobelpristagare i fysik Geoffery Hinton och ai forskaren Yoshua Bengio, båda har varit med och utvecklat den tekniken som dagens ai bygger på. Denna varning bör tas på allvar.'
 		},
 		{
 			selected: false,
-			buttonText: 'Hot mot demokratin',
+			buttonText: 'Icke existentiella risker',
 			text: 'Oreglerad AI underlättar för illasinnade aktörer att osamka stor skada. Exempelvis har nyligen OpenAi (företaget bakom ChatGPT) varnat för att deras ai kan förenkla skapandet av biologiska vapen, något som även Nuclear Threat Initiative har varnat för. Nyligen användes även anthropic’s ai Claude för att genomföra cyberattacker mot 30 amerikanska företag.'
 		},
 		{
 			selected: false,
-			buttonText: 'Hot mot demokratin',
+			buttonText: 'Jobb',
 			text: 'Oreglerad AI riskerar att skapa ökade klyftor i samhället. Det finns redan exempel på hur människor ersätts av ai-lösningar för att effektivisera inom vissa yrken, ett aktuellt exempel är HR här i Sverige. Flera framstående personer i näringslivet varnar för att ai kommer ersätta många av dagens jobb, bland annat Bill Gates och Sebastian Siemiatkowski (VD klarna). Med tydliga regler kan jobb som ersätts av ai eventuellt vara något positivt.'
 		},
 		{
@@ -75,14 +75,6 @@
 		padding: 20px;
 		border: 1px solid #ddd;
 		border-radius: 5px;
-	}
-
-	select {
-		width: 200px;
-		padding: 10px;
-		margin-right: 20px;
-		border-radius: 4px;
-		border: 1px solid #ccc;
 	}
 
 	.text-box {
