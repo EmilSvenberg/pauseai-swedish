@@ -66,7 +66,10 @@
 					</div>
 				{/if}
 			{/each}
-			Med vänliga hälsningar, [Ditt namn och adress]
+			{`
+        Med vänliga hälsningar,
+        [Ditt namn och adress]
+`}
 		</div>
 
 		<button style="margin-top:20px;" on:click={copyEmailToClipboard}>Kopiera mejl</button>
