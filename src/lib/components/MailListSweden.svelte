@@ -11,37 +11,24 @@
 	const copyEmailToClipboard = () => {
 		const emailBox = document.getElementById('email-box')
 		const emailToCopy = emailBox?.textContent
-		const emailCopyMessage = document.getElementById('email-copy-message')
 
-		if (!emailToCopy || emailCopyMessage) return
+		if (!emailToCopy) return
 
 		navigator.clipboard.writeText(emailToCopy)
 	}
 </script>
 
 <div class="container">
-	<label for="name-select">Vilket Parti vill du kontakta?</label>
-	<select id="name-select">
-		<option value="">-- Välj ett parti --</option>
-		<option value="niels.paarup-petersen@riksdagen.se">Centerpartiet</option>
-		<option value="K Mejladress">Kristdemokraterna</option>
-		<option value="L Mejladress">Liberalerna</option>
-		<option value="Miljöpartiets Mejladress">Miljöpartiet</option>
-		<option value="M Mejladress">Moderaterna</option>
-		<option value="SD Mejladress">Sverigedemokraterna</option>
-		<option value="S Mejladress">Socialdemokraterna</option>
-		<option value="V Mejladress">Vänsterpartiet</option>
-	</select>
-	<span style="margin-left: 10px;">Mejladress för det valda partiet:</span>
-	<div id="description-box" class="text-box"></div>
 	<button on:click={copyEmailToClipboard}>Kopiera mejladress</button>
 	<div id="copy-message">Mejladressen har kopierats!</div>
 
 	<!-- Knappar för att lägga till text i mejlet -->
 	<span style="margin-left: 10px;">Vad oroar dig mest med AI?</span>
 	<div class="button-container">
-		{#each selectableTexts as text, i}
-			<button on:click={() => (textIsSelected[i] = !textIsSelected[i])}>Existentiell risk</button>
+		{#each textIsSelected as selected}
+			<button class={`${selected && 'selected-mail'}`} on:click={() => (selected = !selected)}
+				>Existentiell risk</button
+			>
 		{/each}
 	</div>
 
@@ -49,19 +36,16 @@
 	<div style="margin-top: 20px;">
 		<h3>Förskrivet mejl:</h3>
 		<div id="email-box" class="email-box">
-			Hej, Mitt namn är _NAMN_ och jag skickar detta mejl till dig eftersom jag tycker det är allt
-			för lite fokus på säkerhet i AI debatten vilket gör mig orolig för hur vi säkerställer att AI
-			utvecklingen blir både gynnsam men även säker för oss i Sverige. Över hälften av svenskarna
-			oroar sig över den snabba ai utvecklingen och tror att ai medför större risk än möjligheter.
-			Bristen på tydliga regelverk och information för hur ert parti vill hantera förändringar som
-			AI medför gör mig orolig för framtiden och hur ai utvecklingen kan påverka min familj. Med
-			vänliga hälsningar, [Ditt namn och adress]
+			{'Hej, Mitt namn är _NAMN_ och jag skickar detta mejl till dig eftersom jag tycker det är allt för lite fokus på säkerhet i AI debatten vilket gör mig orolig för hur vi säkerställer att AI utvecklingen	blir både gynnsam men även säker för oss i Sverige. Över hälften av svenskarna oroar sig över den	snabba ai utvecklingen och tror att ai medför större risk än möjligheter. Bristen på tydliga regelverk	och information för hur ert parti vill hantera förändringar som AI medför gör mig orolig för framtiden	och hur ai utvecklingen kan påverka min familj. Med vänliga hälsningar, [Ditt namn och adress]'}
+
+			{#each textIsSelected as selected, i}
+				<div class="selectable-mail-section">
+					{#if selected}
+						{selectableTexts[i]}
+					{/if}
+				</div>
+			{/each}
 		</div>
-
-		{#each textIsSelected as text, i}
-			{selectableTexts[i]}
-		{/each}
-
 		<button on:click={copyEmailToClipboard}>Kopiera mejl</button>
 		<div id="email-copy-message">Mejlet har kopierats!</div>
 	</div>
@@ -70,7 +54,7 @@
 <style>
 	.container {
 		font-family: Arial, sans-serif;
-		max-width: 600px;
+		max-width: 1000px;
 		margin: 20px auto;
 		padding: 20px;
 		border: 1px solid #ddd;
@@ -137,5 +121,13 @@
 	.button-container {
 		margin-top: 10px;
 		margin-bottom: 20px;
+	}
+
+	.selectable-mail-section {
+		margin-top: 1rem;
+	}
+
+	.selected-mail {
+		background-color: #f57c00 !important; /* Mörkare orange för highlight */
 	}
 </style>

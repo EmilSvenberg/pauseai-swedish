@@ -6,6 +6,7 @@
 	import Stats from '$lib/components/Stats.svelte'
 	import * as m from '$lib/paraglide/messages.js'
 	import robotoSlabLatin700 from '@fontsource/roboto-slab/files/roboto-slab-latin-700-normal.woff2'
+	import MailListSweden from './MailListSweden.svelte'
 
 	const title = 'We need to Pause AI'
 	const description = 'We are risking human extinction. We need to pause AI development, right now.'
@@ -48,6 +49,8 @@
 		<span slot="title">{@html m.home_action_title()}</span>
 		{m.home_action_content()}
 	</Block>
+
+	<MailListSweden />
 </section>
 
 <style>
