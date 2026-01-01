@@ -91,11 +91,11 @@
 	}
 
 	button:hover {
-		background-color: #ffb74d; /* Ljus orange */
+		filter: brightness(110%);
 	}
 
 	button:active {
-		background-color: #f57c00; /* Mörkare orange för highlight */
+		filter: brightness(92%);
 	}
 
 	#email-copy-message {
