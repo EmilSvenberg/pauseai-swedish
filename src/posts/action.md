@@ -1,36 +1,16 @@
 ---
-title: Vidta åtgärder
+title: Vad kan jag göra?
 description: Sätt att hjälpa till att pausa utvecklingen av AGI.
 ---
 
-Gruppen av människor som är medvetna om AI-risker är fortfarande liten.
+PauseAI arbetar för en internationell paus i utvecklingen av de mest avancerade AI-systemen tills vi har tillräckliga säkerhetsgarantier. Nedan beskrivs hur du kan bidra.
 
-Du är nu en av dem.
+Aktiviteterna är strukturerade utifrån den tid de tar att utföra.
 
 **Dina handlingar spelar större roll än du tror.**
 
-## Du kan göra detta
+## 5-15 minuter
 
-- **[Gå med i PauseAI](/join)** och hjälp oss att växa.
-- **Gå med i vår [Discord-server](https://discord.gg/T3YrWUJsJ5)**, där vår gemenskap är mest aktiv. Vi har en **#projects**-kanal där människor arbetar med kampanjer, videor, bilder, appar och mer.
-- **Gå med i ett av våra [team](/teams)** och samarbeta med andra motiverade volontärer.
-- **[Träffa](/communities)** andra människor i en PauseAI-gemenskap nära dig. Om det inte finns någon gemenskap nära dig, överväg att starta en.
-- [**Donera**](/donate) till PauseAI eller köp lite merchandise i vår [butik](https://pauseai-shop.fourthwall.com/).
-- [**Skicka ett e-postmeddelande till en politiker**](/email-builder): e-postmeddelanden är mycket kraftfulla. Gör det.
-- **[Lär dig mer](/learn)** om AI-anpassning och de risker vi står inför.
-- [**Protestera**](/protests): gå med i [en av protesterna](/protests) eller [organisera en själv](/organizing-a-protest).
-- [**Lobbying**](/lobby-tips): övertyga din regering att arbeta för en paus och förbereda sig för [toppmötet](/summit).
-- **Prata** med människor i ditt liv om detta. Svara på deras frågor och få dem att agera.
-- [**Flygblad**](/flyering): skriv ut, dela och sätt upp flygblad.
-  - Att ha några tryckta ensidiga flygblad till hands, eller lätt tillgängliga att visa och dela från din telefon, kan vara en snabb och användbar resurs för vanliga frågor, samtalspunkter, expertcitat och åsikter, online-resurser, etc.
-- **Dela** om AI-risker på sociala medier. Denna webbplats kan vara en bra start.
-- **Skapa** [artiklar](/learn#articles), [videor](/learn#videos) eller [memer](https://twitter.com/AISafetyMemes). Samarbeta med andra på [Discord-servern](https://discord.gg/2XXWXvErfA) (i #projects-kanalen).
-- **Skriv under petition**:
-  - [Ta riskerna med ai på allvar!](https://www.mittskifte.org/petitions/ta-riskerna-med-ai-pa-allvar?just_launched=true)
-  - [Internationellt AI-fördrag](https://aitreaty.org)
-  - [Förbjud superintelligens](https://chng.it/Djjfj2Gmpk)
-  - [Kräv ansvarsfull AI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df)
-  - Eller en av de **nationella petitionerna**: [Storbritannien](https://petition.parliament.uk/petitions/639956), [Australien](https://www.aph.gov.au/e-petitions/petition/EN5163), [Nederländerna](https://aipetitie.nl)
 - **Följ** våra sociala mediekanaler och håll dig uppdaterad:
   - [Discord](https://discord.gg/2XXWXvErfA)
   - [Twitter](https://twitter.com/PauseAI)
@@ -38,6 +18,38 @@ Du är nu en av dem.
   - [LinkedIn](https://www.linkedin.com/company/pauseai/)
     - Att lägga till "PauseAI" på ditt CV och sätta på "Notifiera nätverk" är ett enkelt sätt att låta folk veta om dina ansträngningar.
   - [TikTok](https://www.tiktok.com/@pauseai)
+ - **Skriv under namninsamling**:
+  - [Ta riskerna med ai på allvar!](https://www.mittskifte.org/petitions/ta-riskerna-med-ai-pa-allvar?just_launched=true)
+  - [Statment on Superintelligence](https://superintelligence-statement.org/)
+  - [Internationellt AI-fördrag](https://aitreaty.org)
+  - [Förbjud superintelligens](https://chng.it/Djjfj2Gmpk)
+  - [Kräv ansvarsfull AI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df)
+  - [**Skicka ett e-postmeddelande till en politiker**](/email-builder): e-postmeddelanden är kraftfullare än man kan tro.
+  - [**Registrera dig på Microcommit**](https://microcommit.io/): Via Microcommit får du korta, konkreta uppgifter varje vecka för att minska katastrofala AI-risker (5-10 minuter per uppgift).
+  - **Dela** om AI-risker på sociala medier. Denna webbplats kan vara en bra start.
+  - [**Donera**](/donate) till PauseAI eller köp lite merchandise i vår [butik](https://pauseai-shop.fourthwall.com/).
+
+## 30-60 minuter
+
+- **[Gå med i PauseAI](/join)**
+- **Gå med i vår [Discord-server](https://discord.gg/T3YrWUJsJ5)**, där vår gemenskap är mest aktiv. Vi har en **#projects**-kanal där människor arbetar med kampanjer, videor, bilder, appar och mer.
+- **[Lär dig mer](/learn)** om AI-säkerhet och de risker vi står inför.
+      - Kortare [sammanfattning](https://herestosurvivingai.substack.com/p/i-thought-ai-extinction-was-sci-fi) om hur och varför AI kan utrota     mänskligheten.
+
+## 1+ timmar
+
+- [**Protestera**](/protests): gå med i [en av protesterna](/protests) eller [organisera en själv](/organizing-a-protest).
+- [**Lobbying**](/lobby-tips): övertyga din regering att arbeta för en paus och förbereda sig för [toppmötet](/summit).
+- **Gå med i ett av våra [team](/teams)** och samarbeta med andra motiverade volontärer.
+- **[Träffa](/communities)** andra människor i en PauseAI-gemenskap nära dig. Om det inte finns någon gemenskap nära dig, överväg att starta en.
+- **Prata** med vänner, bekanta, arbetskollegor om detta. Svara på deras frågor och få dem att agera.
+- [**Flygblad**](/flyering): skriv ut, dela och sätt upp flygblad.
+  - Att ha några tryckta ensidiga flygblad till hands, eller lätt tillgängliga att visa och dela från din telefon, kan vara en snabb och användbar resurs för vanliga frågor, samtalspunkter, expertcitat och åsikter, online-resurser, etc.
+- **Skapa** [artiklar](/learn#articles), [videor](/learn#videos) eller [memer](https://twitter.com/AISafetyMemes). Samarbeta med andra på [Discord-servern](https://discord.gg/2XXWXvErfA) (i #projects-kanalen).
+- **Överväg en karriär inom AI-Säkerhet**
+  - [Karriärstöd och coachning för effektiv altruism](https://www.effektivaltruism.org/karriarstod-och-coachning/)
+  - [Research-backed guide to a fulfilling career that does good - 80,000 Hours](https://80000hours.org/career-guide/)
+  - Kontakta oss gärna så berättar vi mer.
 
 ## Om du ...
 
@@ -47,12 +59,11 @@ Du är nu en av dem.
 - **Övertyga journalister** att skriva om AI-säkerhet. Hänvisa dem till [utbildningsmaterial](/learn).
 - **Övertyga influencers** att prata och göra videor om AI-säkerhet.
 - **Be ledningen** på din nuvarande organisation att ta en institutionell ställning i denna fråga.
-- [Skriv till dina politiska representanter](https://www.campaignforaisafety.org/politician/).
 
 ### Om du är politiker eller arbetar inom regeringen
 
-- **Förbered dig för [AI-säkerhetstoppmötet](/summit)**. Bilda koalitioner med andra länder. Informera dig om [problemet](/learn) och [lösningarna](/proposal).
-- **Bjud in (eller kalla) AI-labbsledare** till parlamentariska/förhör i kongressen för att ge sina förutsägelser och tidslinjer för AI-katastrofer.
+- **Förbered dig för [AI-säkerhetstoppmötet](/summit)**. Bilda koalitioner med andra länder. Lär dig om [problemet](/learn) och [lösningarna](/proposal).
+- **Bjud in (eller kalla) experter till partimöten**
 - **Etablera en kommitté** för att undersöka [riskerna med AI](/risks).
 
 ### Om du kan (internationell) lag
@@ -69,7 +80,7 @@ Du är nu en av dem.
 - **Arbeta inte mot superintelligens**. Om du har en cool idé om hur vi kan göra AI-system 10x snabbare, vänligen bygg inte det / sprid det / prata om det. Vi behöver bromsa AI-utvecklingen, inte påskynda den.
 - **Prata med din ledning och dina kollegor** om riskerna. Få dem att ta en institutionell ställning i denna fråga.
 - **Håll ett seminarium** om AI-säkerhet på din arbetsplats. Kolla in [videorna](/learn#videos) för inspiration.
-- **Skriv under** [Uttalandet om AI-risk](https://www.safe.ai/statement-on-ai-risk).
+- **Skriv under** [Uttalandet om AI-risk](https://www.safe.ai/statement-on-ai-risk),[Statment on Superintelligence](https://superintelligence-statement.org/)
 
 ### Om du arbetar med AI-säkerhet
 
