@@ -17,14 +17,14 @@ Aktiviteterna är strukturerade utifrån den tid de tar att utföra.
   - [Facebook](https://www.facebook.com/PauseAI)
   - [LinkedIn](https://www.linkedin.com/company/pauseai/)
     - Att lägga till "PauseAI" på ditt CV och sätta på "Notifiera nätverk" är ett enkelt sätt att låta folk veta om dina ansträngningar.
-  - [TikTok](https://www.tiktok.com/@pauseai)
+  - [**TikTok**](https://www.tiktok.com/@pauseai)
  - **Skriv under namninsamling**:
-  - [Ta riskerna med ai på allvar!](https://www.mittskifte.org/petitions/ta-riskerna-med-ai-pa-allvar?just_launched=true)
-  - [Statment on Superintelligence](https://superintelligence-statement.org/)
-  - [Internationellt AI-fördrag](https://aitreaty.org)
-  - [Förbjud superintelligens](https://chng.it/Djjfj2Gmpk)
-  - [Kräv ansvarsfull AI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df)
-  - [**Skicka ett e-postmeddelande till en politiker**](/email-builder): e-postmeddelanden är kraftfullare än man kan tro.
+  - [**Ta riskerna med ai på allvar!**](https://www.mittskifte.org/petitions/ta-riskerna-med-ai-pa-allvar?just_launched=true)
+  - [**Statment on Superintelligence**](https://superintelligence-statement.org/)
+  - [**Internationellt AI-fördrag**](https://aitreaty.org)
+  - [**Förbjud superintelligens**](https://chng.it/Djjfj2Gmpk)
+  - [**Kräv ansvarsfull AI**](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df)
+  - [**Skicka ett e-postmeddelande till en politiker**](https://beta.app.activoice.org/campaigns/uppmana-vara-politker-att-ta-ai-riskerna-pa-allvar): e-postmeddelanden är kraftfullare än man kan tro.
   - [**Registrera dig på Microcommit**](https://microcommit.io/): Via Microcommit får du korta, konkreta uppgifter varje vecka för att minska katastrofala AI-risker (5-10 minuter per uppgift).
   - **Dela** om AI-risker på sociala medier. Denna webbplats kan vara en bra start.
   - [**Donera**](/donate) till PauseAI eller köp lite merchandise i vår [butik](https://pauseai-shop.fourthwall.com/).
