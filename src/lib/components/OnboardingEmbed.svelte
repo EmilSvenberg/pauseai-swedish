@@ -9,14 +9,22 @@
 	export let height = 900
 
 	$: params = new URLSearchParams({ ...(country && { country }), ...(bg && { bg }) })
-	$: src = `https://pauseai.info/embed/onboarding-form/?${params}`
+	// No trailing slash before the query: the slashed form 308-redirects, costing
+	// every visitor a round-trip before the form loads.
+	$: src = `https://pauseai.info/embed/onboarding-form?${params}`
+
+	/** @type {HTMLIFrameElement} */
+	let iframe
 
 	// The form reports its rendered height on every step change; without this
 	// listener the iframe keeps `height` and later steps are cut off.
 	onMount(() => {
+		/** @param {MessageEvent} event */
 		const onMessage = (event) => {
 			if (event.origin !== 'https://pauseai.info') return
-			if (typeof event.data?.height === 'number') height = event.data.height
+			if (event.source !== iframe?.contentWindow) return
+			const h = event.data?.height
+			if (typeof h === 'number' && Number.isFinite(h) && h > 0) height = h
 		}
 		window.addEventListener('message', onMessage)
 		return () => window.removeEventListener('message', onMessage)
@@ -24,7 +32,12 @@
 </script>
 
 <div class="onboarding-embed">
-	<iframe {src} title="Join PauseAI" style="width: 100%; height: {height}px; border: 0;"></iframe>
+	<iframe
+		bind:this={iframe}
+		{src}
+		title="Join PauseAI"
+		style="width: 100%; height: {height}px; border: 0;"
+	></iframe>
 </div>
 
 <style>
