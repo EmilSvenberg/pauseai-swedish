@@ -6,7 +6,7 @@ description: Sign up to join the PauseAI movement
 <script>
     import { onMount, tick } from 'svelte'
     import { page } from '$app/stores'
-    import TallyEmbed from '$lib/components/TallyEmbed.svelte'
+    import OnboardingEmbed from '$lib/components/OnboardingEmbed.svelte'
     import NewsletterSignup from '$lib/components/NewsletterSignup.svelte'
     import Banner from '$lib/components/Banner.svelte'
     import { detectAndStoreCollagenUid } from '$lib/collagen'
@@ -81,7 +81,7 @@ PauseAI Global unites concerned citizens—scientists, parents, students, worker
 Whether you can spare 5 minutes (sharing posts), an hour (flyering, writing letters), 5 hours (protests, meeting politicians) or 5 days weekly (strategy development), your voice matters.
 After signing up, join our onboarding session online or locally to learn about current actions.
 
-<TallyEmbed formId="wbGvKe" />
+<OnboardingEmbed country="Sweden" />
 
 ## After singing up
 
