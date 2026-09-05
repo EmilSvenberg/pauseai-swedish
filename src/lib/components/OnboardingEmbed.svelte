@@ -12,6 +12,9 @@
 	// No trailing slash before the query: the slashed form 308-redirects, costing
 	// every visitor a round-trip before the form loads.
 	$: src = `https://pauseai.info/embed/onboarding-form?${params}`
+	// `referrerpolicy` on the iframe below is recommended by the embed's own docs:
+	// without it a cross-origin frame passes only the host origin, so signups are
+	// attributed to the bare domain rather than this page.
 	// Match the card to whatever the embed itself is painting.
 	$: cardBg = /^[0-9a-f]{3,8}$/i.test(bg) ? `#${bg}` : bg
 
@@ -36,6 +39,7 @@
 		bind:this={iframe}
 		{src}
 		title="Join PauseAI"
+		referrerpolicy="no-referrer-when-downgrade"
 		style="width: 100%; height: {height}px; border: 0;"
 	></iframe>
 </div>
